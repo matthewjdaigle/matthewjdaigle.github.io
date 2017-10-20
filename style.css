@@ -3,6 +3,8 @@ body {padding:0em;margin:auto 0em;background:#222222 url('images/chalkboard.jpg'
 	body {font-size:100%;}
 }
 
+@imprt url('//fonts.googleapis.com/css?family=Open+Sans:400,700|Open+Sans+Condensed:300|Amatic+SC:400,700')
+
 a:link{color:#FFC670;text-decoration:none;font-weight:bold;}
 a:visited{color:#FFC670;text-decoration:none;font-weight:bold;}
 a:active{color:#FFFFFF;text-decoration:none;font-weight:bold;}
