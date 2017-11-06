@@ -3,10 +3,10 @@ layout: home
 ---
 
 ## Contact Information
-Matthew J. Daigle
-NIO USA, Inc.
-3200 N. First St.
-San Jose, CA 95134
+Matthew J. Daigle  
+NIO USA, Inc.  
+3200 N. First St.  
+San Jose, CA 95134  
 Email: me at matthewjdaigle.com
 
 <div class="iconSet">
