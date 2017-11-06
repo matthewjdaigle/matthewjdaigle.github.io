@@ -1,0 +1,1567 @@
+
+
+
+- year: 2017
+  publications:
+
+    - title: "A Generic Software Architecture for Prognostics"
+      authors: C. Teubert, M. Daigle, S. Sankararaman, K. Goebel, and J. Watkins
+      url: pubs/Teubert2017GSAP.pdf
+      type: Journal
+      school:
+      book: "International Journal of Prognostics and Health Management"
+      volume: 8
+      number: 2
+      pages:
+      location:
+      year: 2017
+      month: October
+      notes:
+
+    - title: "GPU Accelerated Prognostics"
+      authors: G. Gorospe, M. Daigle, S. Sankararaman, C. Kulkarni, and E. Ng
+      url: pubs/Gorospe2017GPU
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2016"
+      volume:
+      number:
+      pages:
+      location: St. Petersburg, FL
+      year: 2017
+      month: October
+      notes:
+
+    - title: "Real-Time Prediction of Safety Margins in the National Airspace"
+      authors: M. Daigle, I. Roychoudhury, L. Spirkovska, K. Goebel, S. Sankararaman, J. Ossenfort, and C. Kulkarni
+      url:
+      type: Conference
+      school:
+      book: "AIAA Aviation Conference"
+      volume:
+      number:
+      pages:
+      location: Denver, CO
+      year: 2017
+      month: June
+      notes:
+
+    - title: "Real Time Safety Monitoring: Concept for Supporting Safe Flight Operations"
+      authors: L. Spirkovska, I. Roychoudhury, M. Daigle, and K. Goebel
+      url:
+      type: Conference
+      school:
+      book: "AIAA Aviation Conference"
+      volume:
+      number:
+      pages:
+      location: Denver, CO
+      year: 2017
+      month: June
+      notes:
+
+    - title: "Prognostics: The Science of Making Predictions"
+      authors: K. Goebel, M. Daigle, A. Saxena, S. Sankararaman, I. Roychoudhury, and J. Celaya
+      url: http://a.co/f6TQn4B
+      type: Book
+      school:
+      book: ""
+      volume:
+      number:
+      pages:
+      location:
+      year: 2017
+      month: April
+      notes:
+
+    - title: "Uncertainty Quantification in Trajectory Prediction for Aircraft Operations"
+      authors: S. Sankararaman and M. Daigle
+      url: pubs/Sankararaman2017Trajectory.pdf
+      type: Conference
+      school:
+      book: "AIAA Guidance, Navigation, and Control Conference"
+      volume:
+      number:
+      pages:
+      location: Grapevine, TX
+      year: 2017
+      month: January
+      notes:
+
+- year: 2016
+  publications:
+
+    - title: "Predicting Remaining Driving Time and Distance of a Planetary Rover under Uncertainty"
+      authors: M. Daigle and S. Sankararaman
+      url: pubs/Daigle2016Predicting.pdf
+      type: Journal
+      school:
+      book: "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering"
+      volume: 2
+      number: 4
+      pages:
+      location:
+      year: 2016
+      month: December
+      notes:
+
+    - title: "A Qualitative Fault Isolation Approach for Parametric and Discrete Faults Using Structural Model Decomposition"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/Daigle2016Hybrid.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2016"
+      volume:
+      number:
+      pages: 413-425
+      location: Denver, CO
+      year: 2016
+      month: October
+      notes:
+
+    - title: "System-level Prognostics for the National Airspace"
+      authors: M. Daigle, S. Sankararaman, and I. Roychoudhury
+      url: pubs/Daigle2016System.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2016"
+      volume:
+      number:
+      pages: 397-405
+      location: Denver, CO
+      year: 2016
+      month: October
+      notes:
+
+    - title: "A Qualitative Event-based Approach to Multiple Fault Diagnosis in Continuous Systems using Structural Model Decomposition"
+      authors: M. Daigle, A. Bregon, X. Koutsoukos, G. Biswas, and B. Pulido
+      url: pubs/Daigle2016Multiple.pdf
+      type: Journal
+      school:
+      book: "Engineering Applications of Artificial Intelligence"
+      volume: 53
+      number:
+      pages: 190-206
+      location:
+      year: 2016
+      month: August
+      notes:
+
+    - title: "Qualitative Fault Isolation of Hybrid Systems: A Structural Model Decomposition-Based Approach"
+      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      url: pubs/Bregon2016Hybrid.pdf
+      type: Conference
+      school:
+      book: "Third European Conference of the PHM Society 2016"
+      volume:
+      number:
+      pages: 515-525
+      location: Bilbao, Spain
+      year: 2016
+      month: July
+      notes:
+
+    - title: "Initial Demonstration of the Real-time Safety Monitoring Framework for the National Airspace System Using Flight Data"
+      authors: I. Roychoudhury, M. Daigle, K. Goebel, L. Spirkovska, S. Sankararaman, J. Ossenfort, C. Kulkarni, W. McDermott, and S. Poll
+      url:
+      type: Conference
+      school:
+      book: "16th AIAA Aviation Technology, Integration, and Operations Conference"
+      volume:
+      number:
+      pages:
+      location: Washington, D.C.
+      year: 2016
+      month: June
+      notes:
+
+    - title: "Health Monitoring of a Planetary Rover Using Hybrid Particle Petri Nets"
+      authors: Q. Gaudel, P. Ribot, E. Chanthery, and M. Daigle
+      url: pubs/Gaudel2016Health.pdf
+      type: Conference
+      school:
+      book: "37th International Conference on Applications and Theory of Petri Nets and Concurrency"
+      volume:
+      number:
+      pages: 196-215
+      location: Torun, Poland
+      year: 2016
+      month: June
+      notes:
+
+    - title: "End-of-discharge and End-of-life Prediction in Lithium-ion Batteries with Electrochemistry-based Aging Models"
+      authors: M. Daigle and C. Kulkarni
+      url: pubs/DaigleEtAl-BatteryAging-SciTech2016.pdf
+      type: Conference
+      school:
+      book: "AIAA Infotech@Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: San Diego, CA
+      year: 2016
+      month: January
+      notes:
+
+    - title: "Predicting Real-Time Safety of the National Airspace System"
+      authors: I Roychoudhury, L Spirkovska, M Daigle, E. Balaban, S. Sankararaman, C. Kulkarni, S. Poll, and K. Goebel
+      url: pubs/RoychoudhuryEtAl-RTSM-SciTech2016.pdf
+      type: Conference
+      school:
+      book: "AIAA Infotech@Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: San Diego, CA
+      year: 2016
+      month: January
+      notes:
+
+- year: 2015
+  publications:
+
+    - title: "Real-Time Monitoring and Prediction of Airspace Safety"
+      authors: I. Roychoudhury, L. Spirkovska, M. Daigle, E. Balaban, S. Sankararaman, C. Kulkarni, S. Poll, and K. Goebel
+      url: pubs/Roychoudhury2015RealTime.pdf
+      type: Technical Report
+      school:
+      book: "NASA/TM-2015-218928"
+      volume:
+      number:
+      pages:
+      location: NASA Ames Research Center
+      year: 2015
+      month: December
+      notes:
+
+    - title: "Real-time Prognostics of a Rotary Valve Actuator"
+      authors: M. Daigle
+      url: pubs/Daigle-RotaryValveActuatorPrognostics-PHM2015.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2015"
+      volume:
+      number:
+      pages: 46-56
+      location: San Diego, CA
+      year: 2015
+      month: October
+      notes:
+
+    - title: "Model-based Prognostics of Hybrid Systems"
+      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      url: pubs/DaigleEtAl-HybridSystemsPrognosis-PHM2015.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2015"
+      volume:
+      number:
+      pages: 57-66
+      location: San Diego, CA
+      year: 2015
+      month: October
+      notes:
+
+    - title: "A Testbed for Implementing Prognostic Methodologies on Cryogenic Propellant Loading Systems"
+      authors: C. Kulkarni, G. Gorospe, M. Daigle, and K. Goebel
+      url:
+      type: Journal
+      school:
+      book: "IEEE Instrumentation & Measurement Magazine"
+      volume: 18
+      number: 4
+      pages: 5-15
+      location:
+      year: 2015
+      month: August
+      notes:
+
+    - title: "A Structural Model Decomposition Framework for Hybrid Systems Diagnosis"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/DaigleEtAl-Structural-DX2015.pdf
+      type: Conference
+      school:
+      book: "26th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 201-208
+      location: Paris, France
+      year: 2015
+      month: August
+      notes:
+
+    - title: "Qualitative Event-based Diagnosis Applied to a Spacecraft Electrical Power Distribution System"
+      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      url: pubs/DaigleEtAlQED2015.pdf
+      type: Journal
+      school:
+      book: "Control Engineering Practice"
+      volume: 38
+      number:
+      pages: 75-91
+      location:
+      year: 2015
+      month: May
+      notes:
+
+    - title: "An Integrated Framework for Distributed Diagnosis of Process and Sensor Faults"
+      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      url: pubs/BregonEtAl-DistributedProcessSensorDiagnosis-IEEEAero2015.pdf
+      type: Conference
+      school:
+      book: "2015 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2015
+      month: March
+      notes:
+
+    - title: "Stochastic Prediction of Remaining Driving Time and Distance for a Planetary Rover"
+      authors: M. Daigle, S. Sankararaman, and C. Kulkarni
+      url: pubs/DaigleEtAl-RoverBHM-Aero2015.pdf
+      type: Conference
+      school:
+      book: "2015 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2015
+      month: March
+      notes:
+
+    - title: "Application of Model Based Prognostics to Pneumatic Valves in a Cryogenic Propellant Loading Testbed"
+      authors: C. Kulkarni, M. Daigle, G. Gorospe, and K. Goebel
+      url: pubs/Kulkarni-Valves-SciTech2015.pdf
+      type: Conference
+      school:
+      book: "AIAA SciTech Conference"
+      volume:
+      number:
+      pages:
+      location: Kissimmee, FL
+      year: 2015
+      month: January
+      notes:
+
+- year: 2014
+  publications:
+
+    - title: "Validation of Model-Based Prognostics for Pneumatic Valves in a Demonstration Testbed"
+      authors: C. Kulkarni, M. Daigle, G. Gorospe, and K. Goebel
+      url: pubs/KulkarniEtAl-Valves-PHM2014.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 76-85
+      location: Fort Worth, TX
+      year: 2014
+      month: September
+      notes: nominated for best paper award
+
+    - title: "Adaptation of an Electrochemistry-based Li-Ion Battery Model to Account for Deterioration Observed Under Randomized Use"
+      authors: B. Bole, C. Kulkarni, and M. Daigle
+      url: pubs/BoleEtAl-BatterySOH-PHM2014.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 502-510
+      location: Fort Worth, TX
+      year: 2014
+      month: September
+      notes:
+
+    - title: "Demonstration of Prognostics-Enabled Decision Making Algorithms on a Hardware Mobile Robot Test Platform"
+      authors: A. Sweet, G. Gorospe, M. Daigle, J. Celaya, E. Balaban, I. Roychoudhury, and S. Narasimhan
+      url: pubs/SweetEtAl-Rover-PHM2014.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 142-150
+      location: Fort Worth, TX
+      year: 2014
+      month: September
+      notes:
+
+    - title: "Qualitative Event-Based Fault Isolation under Uncertain Observations"
+      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      url: pubs/DaigleEtAl-pQED-PHM2014.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 347-355
+      location: Fort Worth, TX
+      year: 2014
+      month: September
+      notes:
+
+    - title: "Integrated Diagnostics and Prognostics for the Electrical Power System of a Planetary Rover"
+      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      url: pubs/DaigleEtAl-RoverEPS-PHM2014.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 128-141
+      location: Fort Worth, TX
+      year: 2014
+      month: September
+      notes:
+
+    - title: "A Testbed for Implementing Prognostic Methodologies on Cryogenic Propellant Loading Systems"
+      authors: C. Kulkarni, G. Gorospe, M. Daigle, and K. Goebel
+      url: pubs/KulkarniEtAl-ValveTestbed-Autotestcon2014.pdf
+      type: Conference
+      school:
+      book: "2014 IEEE Systems Readiness Technology Conference (AUTOTESTCON)"
+      volume:
+      number:
+      pages: 280-289
+      location: St. Louis, MO
+      year: 2014
+      month: September
+      notes: best paper award
+
+    - title: "Diagnosability-Based Sensor Placement through Structural Model Decomposition"
+      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      url: pubs/DaigleEtAl-SenorPlacement-PHME2014.pdf
+      type: Conference
+      school:
+      book: "Second European Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 33-46
+      location: Nantes, France
+      year: 2014
+      month: July
+      notes:
+
+    - title: "Online Prediction of Battery Discharge and Estimation of Parasitic Loads for an Electric Aircraft"
+      authors: B. Bole, M. Daigle, and G. Gorospe
+      url: pubs/BoleEtAl-ElectricAircraftBatteryPrediction-PHME2014.pdf
+      type: Conference
+      school:
+      book: "Second European Conference of the Prognostics and Health Management Society 2014"
+      volume:
+      number:
+      pages: 23-32
+      location: Nantes, France
+      year: 2014
+      month: July
+      notes:
+
+    - title: "Uncertainty Quantification in Remaining Useful Life Prediction using First-Order Reliability Methods"
+      authors: S. Sankararaman, M. Daigle, and K. Goebel
+      url: pubs/SankararamanEtAl-UncertaintyQuantificationRUL.pdf
+      type: Journal
+      school:
+      book: "IEEE Transactions on Reliability"
+      volume: 63
+      number: 2
+      pages: 603-619
+      location:
+      year: 2014
+      month: June
+      notes:
+
+    - title: "Distributed Prognostics Based on Structural Model Decomposition"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/DaigleEtAl-DistributedPrognostics-IEEEToR.pdf
+      type: Journal
+      school:
+      book: "IEEE Transactions on Reliability"
+      volume: 63
+      number: 2
+      pages: 495-510
+      location:
+      year: 2014
+      month: June
+      notes:
+
+    - title: "An Event-based Distributed Diagnosis Framework using Structural Model Decomposition"
+      authors: A. Bregon, M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, and B. Pulido
+      url: pubs/BregonEtAl-DistributedDiagnosis-AI.pdf
+      type: Journal
+      school:
+      book: "Artificial Intelligence"
+      volume: 210
+      number:
+      pages: 1-35
+      location:
+      year: 2014
+      month: May
+      notes:
+
+    - title: "Application of Model-based Prognostics to a Pneumatic Valves Testbed"
+      authors: M. Daigle, C. Kulkarni, and G. Gorospe
+      url: pubs/DaigleEtAl-Aero2014-Valves.pdf
+      type: Conference
+      school:
+      book: "2014 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2014
+      month: March
+      notes:
+
+    - title: "A Battery Health Monitoring Framework for Planetary Rovers"
+      authors: M. Daigle and C. Kulkarni
+      url: pubs/DaigleEtAl-Aero2014-RoverBHM.pdf
+      type: Conference
+      school:
+      book: "2014 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2014
+      month: March
+      notes: best paper award
+
+    - title: "Current/Pressure Transducer Application of Model-Based Prognostics using Steady State Conditions"
+      authors: C. Teubert and M. Daigle
+      url: pubs/TeubertEtAl-Aero2014-IPT.pdf
+      type: Conference
+      school:
+      book: "2014 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2014
+      month: March
+      notes:
+
+- year: 2013
+  publications:
+
+    - title: "Qualitative Event-based Diagnosis with Possible Conflicts: Case Study on the Fourth International Diagnostic Competition"
+      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      url: pubs/DaigleEtAl-QED2013.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 24th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 230-235
+      location: Jerusalem, Israel
+      year: 2013
+      month: October
+      notes:
+
+    - title: "Fourth International Diagnostic Competition - DXC'13"
+      authors: A. Sweet, A. Feldman, S. Narasimhan, M. Daigle, and S. Poll
+      url: pubs/SweetEtAl-DXC2013.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 24th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 224-229
+      location: Jerusalem, Israel
+      year: 2013
+      month: October
+      notes:
+
+    - title: "Battery Charge Depletion Prediction on an Electric Aircraft"
+      authors: C. Quach, B. Bole, E. Hogge, S. Vazquez, M. Daigle, J. Celaya, A. Weber, and K. Goebel
+      url: pubs/QuachEtAl-Edge-PHM2013.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2013"
+      volume:
+      number:
+      pages: 503-512
+      location: New Orleans, LA
+      year: 2013
+      month: October
+      notes:
+
+    - title: "A Cryogenic Fluid System Simulation in Support of Integrated Systems Health Management"
+      authors: J. Barber, K. Johnston, and M. Daigle
+      url: pubs/BarberEtAl-CryoSim-PHM2013.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2013"
+      volume:
+      number:
+      pages: 114-126
+      location: New Orleans, LA
+      year: 2013
+      month: October
+      notes:
+
+    - title: "I/P Transducer Application of Model-Based Wear Detection and Estimation using Steady State Conditions"
+      authors: C. Teubert and M. Daigle
+      url: pubs/TeubertEtAl-IPT-PHM2013.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2013"
+      volume:
+      number:
+      pages: 134-140
+      location: New Orleans, LA
+      year: 2013
+      month: October
+      notes:
+
+    - title: "Electrochemistry-based Battery Modeling for Prognostics"
+      authors: M. Daigle and C. Kulkarni
+      url: pubs/DaigleEtAl-Batteries-PHM2013.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2013"
+      volume:
+      number:
+      pages: 249-261
+      location: New Orleans, LA
+      year: 2013
+      month: October
+      notes: nominated for best paper award
+
+    - title: "Advanced Methods for Determining Prediction Uncertainty in Model-Based Prognostics with Application to Planetary Rovers"
+      authors: M. Daigle and S. Sankararaman
+      url: pubs/DaigleEtAl-PredictionUncertainty-PHM2013.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2013"
+      volume:
+      number:
+      pages: 262-274
+      location: New Orleans, LA
+      year: 2013
+      month: October
+      notes: nominated for best paper award
+
+    - title: "An Efficient Model-based Diagnosis Engine for Hybrid Systems using Structural Model Decomposition"
+      authors: A. Bregon, S. Narasimhan, I. Roychoudhury, M. Daigle, and B. Pulido
+      url: pubs/BregonEtAl-HyDEPCs-PHM2013.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2013"
+      volume:
+      number:
+      pages: 312-324
+      location: New Orleans, LA
+      year: 2013
+      month: October
+      notes:
+
+    - title: "Implementation of Prognostic Methodologies to Cryogenic Propellant Loading Testbed"
+      authors: C. Kulkarni, M. Daigle, and K. Goebel
+      url: pubs/KulkarniEtAl-AUTOTESTCON2013.pdf
+      type: Conference
+      school:
+      book: "2013 IEEE Systems Readiness Technology Conference (AUTOTESTCON)"
+      volume:
+      number:
+      pages: 314-320
+      location: Schaumburg, IL
+      year: 2013
+      month: September
+      notes:
+
+    - title: "Development of a Mobile Robot Test Platform and Methods for Validation of Prognostics-Enabled Decision Making Algorithms"
+      authors: E. Balaban, S. Narasimhan, M. Daigle, I. Roychoudhury, A. Sweet, C. Bond, and G. Gorospe
+      url: pubs/BalabanEtAl-MobileRobotTestPlatform-IJPHM.pdf
+      type: Journal
+      school:
+      book: "International Journal of Prognostics and Health Management"
+      volume: 4
+      number: 1
+      pages:
+      location:
+      year: 2013
+      month: May
+      notes:
+
+    - title: "Model-based Prognostics with Concurrent Damage Progression Processes"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-PrognosticsConcurrentDamage-SMC.pdf
+      type: Journal
+      school:
+      book: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      volume: 43
+      number: 4
+      pages: 535-546
+      location:
+      year: 2013
+      month: May
+      notes:
+
+    - title: "A Structural Model Decomposition Framework for Systems Health Management"
+      authors: I. Roychoudhury, M. Daigle, A. Bregon, and B. Pulido
+      url: pubs/RoychoudhuryEtAl-Aero2013.pdf
+      type: Conference
+      school:
+      book: "2013 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2013
+      month: March
+      notes:
+
+    - title: "Analytical Algorithms to Quantify the Uncertainty in Remaining Useful Life Prediction"
+      authors: S. Sankararaman, M. Daigle, A. Saxena, and K. Goebel
+      url: pubs/SankararamanEtAl-Aero2013.pdf
+      type: Conference
+      school:
+      book: "2013 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2013
+      month: March
+      notes:
+
+    - title: "Temperature Stratification in a Cryogenic Fuel Tank"
+      authors: M. Daigle, J. Boschee, M. Foygel, and V. Smelyanskiy
+      url: pubs/DaigleEtAl-ThermalStratification.pdf
+      type: Journal
+      school:
+      book: "AIAA Journal of Thermophysics and Heat Transfer"
+      volume: 27
+      number: 1
+      pages: 116-126
+      location:
+      year: 2013
+      month: January
+      notes:
+
+- year: 2012
+  publications:
+
+    - title: "A Distributed Approach to System-Level Prognostics"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/DaigleEtAl-PHM2012SystemLevel.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2012"
+      volume:
+      number:
+      pages: 71-82
+      location: Minneapolis, MN
+      year: 2012
+      month: September
+      notes:
+
+    - title: "An Efficient Deterministic Approach to Model-based Prediction Uncertainty Estimation"
+      authors: M. Daigle, A. Saxena, and K. Goebel
+      url: pubs/DaigleEtAl-PHM2012Uncertainty.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2012"
+      volume:
+      number:
+      pages: 326-335
+      location: Minneapolis, MN
+      year: 2012
+      month: September
+      notes:
+
+    - title: "An Integrated Framework for Model-based Distributed Diagnosis and Prognosis"
+      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      url: pubs/BregonEtAl-PHM2012DDP.pdf
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2012"
+      volume:
+      number:
+      pages: 416-426
+      location: Minneapolis, MN
+      year: 2012
+      month: September
+      notes:
+
+    - title: "Autonomous Decision Making for Planetary Rovers Using Diagnostic and Prognostic Information"
+      authors: S. Narasimhan, E. Balaban, M. Daigle, I. Roychoudhury, A. Sweet, J. Celaya, and K. Goebel
+      url: pubs/NarasimhanEtAl-Rover-Safeprocess2012.pdf
+      type: Conference
+      school:
+      book: "8th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
+      volume:
+      number:
+      pages: 289-294
+      location: Mexico City, Mexico
+      year: 2012
+      month: August
+      notes:
+
+    - title: "Improving Multiple Fault Diagnosability using Possible Conflicts"
+      authors: M. Daigle, A. Bregon, G. Biswas, X. Koutsoukos, and B. Pulido
+      url: pubs/DaigleEtAl-MultipleFaultsPCs-Safeprocess2012.pdf
+      type: Conference
+      school:
+      book: "8th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
+      volume:
+      number:
+      pages: 144-149
+      location: Mexico City, Mexico
+      year: 2012
+      month: August
+      notes:
+
+    - title: "Qualitative Event-based Diagnosis with Possible Conflicts Applied to Spacecraft Power Distribution Systems"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/DaigleEtAl-QED-Safeprocess2012.pdf
+      type: Conference
+      school:
+      book: "8th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
+      volume:
+      number:
+      pages: 265-270
+      location: Mexico City, Mexico
+      year: 2012
+      month: August
+      notes:
+
+    - title: "An Integrated Model-Based Distributed Diagnosis and Prognosis Framework"
+      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      url: pubs/BregonEtAl-DDP-DX2012.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 23rd International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 3-10
+      location: Great Malvern, U.K.
+      year: 2012
+      month: July
+      notes:
+
+    - title: "A Comparison of Filter-based Approaches for Model-based Prognostics"
+      authors: M. Daigle, B. Saha, and K. Goebel
+      url: pubs/DaigleEtAl-FilterBasedPrognostics-Aero2012.pdf
+      type: Conference
+      school:
+      book: "2012 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2012
+      month: March
+      notes:
+
+- year: 2011
+  publications:
+
+    - title: "Dynamical Model of Rocket Propellant Loading with Liquid Hydrogen"
+      authors: V. Osipov, M. Daigle, C. Muratov, M. Foygel, V. Smelyanskiy, and M. Watson
+      url:
+      type: Journal
+      school:
+      book: "AIAA Journal of Spacecraft and Rockets"
+      volume: 48
+      number: 6
+      pages: 987-998
+      location:
+      year: 2011
+      month: November
+      notes:
+
+    - title: "Third International Diagnostic Competition - DXC'11"
+      authors: S. Poll, J. de Kleer, R. Abreau, M. Daigle, A. Feldman, D. Garcia, A. Gonzalez-Sanchez, T. Kurtoglu, S. Narasimhan, and A. Sweet
+      url: pubs/PollEtAl-DXC11.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 267-278
+      location: Murnau, Germany
+      year: 2011
+      month: October
+      notes:
+
+    - title: "Qualitative Event-based Diagnosis with Possible Conflicts: Case Study on the Third International Diagnostic Competition"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/DaigleEtAl-QED-DXC11.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 285-292
+      location: Murnau, Germany
+      year: 2011
+      month: October
+      notes:
+
+    - title: "Improving Distributed Diagnosis Through Structural Model Decomposition"
+      authors: A. Bregon, M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, and B. Pulido
+      url: pubs/BregonEtAl-ImprovingDistribDiagnosis-DX2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 195-202
+      location: Murnau, Germany
+      year: 2011
+      month: October
+      notes:
+
+    - title: "An Integrated Model-Based Diagnostic and Prognostic Framework"
+      authors: I. Roychoudhury and M. Daigle
+      url: pubs/RoychoudhuryEtAl-CombinedProgDiag-DX2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 44-51
+      location: Murnau, Germany
+      year: 2011
+      month: October
+      notes:
+
+    - title: "Distributed Damage Estimation for Prognostics Based on Structural Model Decomposition"
+      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      url: pubs/DaigleEtAl-DistribDamageEstimation-PHM2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2011"
+      volume:
+      number:
+      pages: 198-208
+      location: Montreal, Quebec, Canada
+      year: 2011
+      month: September
+      notes: nominated for best paper award
+
+    - title: "Investigating the Effect of Damage Progression Model Choice on Prognostics Performance"
+      authors: M. Daigle, I. Roychoudhury, S. Narasimhan, S. Saha, B. Saha, and K. Goebel
+      url: pubs/DaigleEtAl-InvestigatingDamageProgression-PHM2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2011"
+      volume:
+      number:
+      pages: 323-333
+      location: Montreal, Quebec, Canada
+      year: 2011
+      month: September
+      notes: won best paper award - theory paper
+
+    - title: "A Mobile Robot Testbed for Prognostics-Enabled Autonomous Decision Making"
+      authors: E. Balaban, S. Narasimhan, M. Daigle, J. Celaya, I. Roychoudhury, B. Saha, S. Saha, and K. Goebel
+      url: pubs/BalabanEtAl-MobileRobotTestbed-PHM2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2011"
+      volume:
+      number:
+      pages: 15-30
+      location: Montreal, Quebec, Canada
+      year: 2011
+      month: September
+      notes: nominated for best paper award
+
+    - title: "A Model-based Prognostics Approach Applied to Pneumatic Valves"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-IJPHM-Valves.pdf
+      type: Journal
+      school:
+      book: "International Journal of Prognostics and Health Management"
+      volume: 2
+      number: 2
+      pages:
+      location:
+      year: 2011
+      month: August
+      notes:
+
+    - title: "Efficient Simulation of Hybrid Systems: A Hybrid Bond Graph Approach"
+      authors: I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      url: pubs/RoychoudhuryEtAl-EfficientSimulationHBGs.PDF
+      type: Journal
+      school:
+      book: "Simulation: Transactions of The Society for Modeling and Simulation International"
+      volume: 87
+      number: 6
+      pages: 467-498
+      location:
+      year: 2011
+      month: June
+      notes:
+
+    - title: "Prognostics for Ground Support Systems: Case Study on Pneumatic Valves"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-PrognosticsValvesCaseStudy-Infotech2011.pdf
+      type: Unrefereed
+      school:
+      book: "Proceedings of AIAA Infotech@Aerospace 2011 Conference"
+      volume:
+      number:
+      pages:
+      location: St. Louis, MO
+      year: 2011
+      month: March
+      notes:
+
+    - title: "Multiple Damage Progression Paths in Model-based Prognostics"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-MultipleDamagePrognostics-Aerospace2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 2011 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2011
+      month: March
+      notes:
+
+    - title: "Model-based Diagnostics for Propellant Loading Systems"
+      authors: M. Daigle, M. Foygel, and V. Smelyanskiy
+      url: pubs/DaigleEtAl-DiagnosticsLH2-Aerospace2011.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 2011 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2011
+      month: March
+      notes:
+
+- year: 2010
+  publications:
+
+    - title: "An Event-based Approach to Integrated Parametric and Discrete Fault Diagnosis in Hybrid Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-IntegratedApproachHybridDiagnosis.pdf
+      type: Journal
+      school:
+      book: "Transactions of the Institute of Measurement and Control, Special Issue on Hybrid and Switched Systems"
+      volume: 32
+      number: 5
+      pages: 487-510
+      location:
+      year: 2010
+      month: October
+      notes:
+
+    - title: "Qualitative Event-based Diagnosis: Case Study on the Second International Diagnostic Competition"
+      authors: M. Daigle and I. Roychoudhury
+      url: pubs/DaigleEtAl-QED-DXC10.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 21st International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 371-378
+      location: Portland, OR
+      year: 2010
+      month: October
+      notes:
+
+    - title: "An Event-based Approach to Distributed Diagnosis of Continuous Systems"
+      authors: M. Daigle, I. Roychoudhury, G. Biswas, and X. Koutsoukos
+      url: pubs/DaigleEtAl-DX2010.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 21st International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 15-22
+      location: Portland, OR
+      year: 2010
+      month: October
+      notes:
+
+    - title: "Improving Computational Efficiency of Prediction in Model-based Prognostics Using the Unscented Transform"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-PHM2010.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2010"
+      volume:
+      number:
+      pages:
+      location: Portland, OR
+      year: 2010
+      month: October
+      notes:
+
+    - title: "A Comprehensive Diagnosis Methodology for Complex Hybrid Systems: A Case Study on Spacecraft Power Distribution Systems"
+      authors: M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll
+      url: pubs/DaigleEtAl-ComprehensiveDiagnosisHybridSystemsADAPT.pdf
+      type: Journal
+      school:
+      book: "IEEE Transactions of Systems, Man, and Cybernetics, Part A, Special Section on Model-based Diagnosis: Facing Challenges in Real-world Applications"
+      volume: 4
+      number: 5
+      pages: 917-931
+      location:
+      year: 2010
+      month: September
+      notes:
+
+    - title: "A Dynamical Physics Model of Nominal and Faulty Operational Modes of Propellant Loading (Liquid Hydrogen): From Space Shuttle to Future Missions"
+      authors: V. Osipov, C. Muratov, M. Daigle, M. Foygel, V. Smelyanskiy, and A. Patterson-Hine
+      url:
+      type: Technical Report
+      school:
+      book: "NASA/TM-2010-216394"
+      volume:
+      number:
+      pages:
+      location: NASA Ames Research Center
+      year: 2010
+      month: July
+      notes:
+
+    - title: "Tackling Verification and Validation for Prognostics"
+      authors: M. S. Feather, K. Goebel, and M. Daigle
+      url: pubs/FeatherEtAl-TacklingVAndVForPrognostics.pdf
+      type: Unrefereed
+      school:
+      book: "Proceedings of the SpaceOps 2010 Conference"
+      volume:
+      number:
+      pages:
+      location: Hunstville, AL
+      year: 2010
+      month: April
+      notes:
+
+    - title: "Structural and Sensor Damage Identification using the Bond Graph Approach"
+      authors: A. Moustafa, S. Mahadevan, M. Daigle, and G. Biswas
+      url:
+      type: Journal
+      school:
+      book: "Structural Control and Health Monitoring"
+      volume: 17
+      number: 2
+      pages: 178-197
+      location:
+      year: 2010
+      month: March
+      notes:
+
+    - title: "Model-based Prognostics under Limited Sensing"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-PrognosticsLimitedSensing.pdf
+      type: Conference
+      school:
+      book: "2010 IEEE Aerospace Conference"
+      volume:
+      number:
+      pages:
+      location: Big Sky, MT
+      year: 2010
+      month: March
+      notes:
+
+- year: 2009
+  publications:
+
+    - title: "Model-based Prognostics with Fixed-lag Particle Filters"
+      authors: M. Daigle and K. Goebel
+      url: pubs/DaigleEtAl-ModelBasedPrognosticsFixedLag-PHM2009.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2009"
+      volume:
+      number:
+      pages:
+      location: San Diego, CA
+      year: 2009
+      month: September
+      notes:
+
+    - title: "Improving Diagnosability of Hybrid Systems through Active Diagnosis"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-Safeprocess2009-ActiveDiagnosis.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
+      volume:
+      number:
+      pages: 217-222
+      location: Barcelona, Spain
+      year: 2009
+      month: July
+      notes: invited paper
+
+    - title: "Comprehensive Diagnosis of Complex Electrical Power Distribution Systems"
+      authors: I. Roychoudhury, M. Daigle, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll
+      url: pubs/RoychoudhuryEtAl-Safeprocess2009-ComprehensiveACDCDiagnosis.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
+      volume:
+      number:
+      pages: 722-727
+      location: Barcelona, Spain
+      year: 2009
+      month: July
+      notes: invited paper, session acceptance rate 33%
+
+    - title: "A Qualitative Event-based Approach to Continuous Systems Diagnosis"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-QualitativeEventBasedApproachFaultDiagnosisContinuousSystems.pdf
+      type: Journal
+      school:
+      book: "IEEE Transactions on Control Systems Technology"
+      volume: 17
+      number: 4
+      pages: 780-793
+      location:
+      year: 2009
+      month: July
+      notes:
+
+    - title: "Applying Model-based Diagnosis to a Rapid Propellant Loading System"
+      authors: C. Goodrich, S. Narasimhan, M. Daigle, W. Hatfield, R. Johnson, and B. Brown
+      url: pubs/GoodrichEtAl-RapidPropellantLoading-DX-2009.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 20th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 147-154
+      location: Stockholm, Sweden
+      year: 2009
+      month: June
+      notes:
+
+- year: 2008
+  publications:
+
+    - title: "A Comprehensive Diagnosis Methodology for Complex Hybrid Systems: A Case Study on Spacecraft Power Distribution Systems"
+      authors: M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll
+      url: pubs/DaigleEtAl-ADAPTTechReport2008.pdf
+      type: Technical Report
+      school:
+      book: "Technical Report ISIS-08-908"
+      volume:
+      number:
+      pages:
+      location: Institute for Software Integrated Systems, Vanderbilt University
+      year: 2008
+      month: December
+      notes:
+
+    - title: "An Efficient Method for Simulating Complex Systems with Switching Behaviors Using Hybrid Bond Graphs"
+      authors: I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      url: pubs/RoychoudhuryEtAl-SNE-2008.pdf
+      type: Journal
+      school:
+      book: "Simulation News Europe"
+      volume: 18
+      number: 3-4
+      pages: 5-13
+      location:
+      year: 2008
+      month: December
+      notes:
+
+    - title: "An Event-based Approach to Hybrid Systems Diagnosability"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-HybridDiagnosability-DX-2008.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 19th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 47-54
+      location:
+      year: 2008
+      month: September
+      notes:
+
+    - title: "Efficient Simulation of Hybrid Systems: An Application to Electrical Power Distribution Systems"
+      authors: I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      url: pubs/RoychoudhuryEtAl-ECMS-2008.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 22nd European Conference on Modeling and Simulation"
+      volume:
+      number:
+      pages: 471-477
+      location: Nicosia, Cyprus
+      year: 2008
+      month: June
+      notes:
+
+    - title: "A Qualitative Event-based Approach to Fault Diagnosis of Hybrid Systems"
+      authors: M. Daigle
+      url: pubs/DaigleDissertation.pdf
+      type: Dissertation
+      school: Vanderbilt University
+      book: ""
+      volume:
+      number:
+      pages:
+      location:
+      year: 2008
+      month: May
+      notes:
+
+    - title: "An Integrated Approach to Parametric and Discrete Fault Diagnosis in Hybrid Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-HSCC-2008.pdf
+      type: Conference
+      school:
+      book: "Hybrid Systems: Computation and Control (HSCC 2008), Lecture Notes in Computer Science"
+      volume: 4981
+      number:
+      pages: 614-617
+      location: St. Louis, MO
+      year: 2008
+      month: April
+      notes: short paper
+
+    - title: "An Integrated Approach to Parametric and Discrete Fault Diagnosis in Hybrid Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-IntegratedParametricDiscreteDiagnosis.pdf
+      type: Technical Report
+      school:
+      book: "Technical Report ISIS-07-815"
+      volume:
+      number:
+      pages:
+      location: Institute for Software Integrated Systems, Vanderbilt University
+      year: 2008
+      month: January
+      notes:
+
+- year: 2007
+  publications:
+
+    - title: "Fault Diagnosis of Continuous Systems Using Discrete-Event Methods"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-CDC-2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 46th IEEE Conference on Decision and Control"
+      volume:
+      number:
+      pages: 2626-2632
+      location: New Orleans, LA
+      year: 2007
+      month: Dec
+      notes:
+
+    - title: "A Qualitative Approach to Multiple Fault Isolation in Continuous Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-AAAI-2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the Twenty-Second AAAI National Conference 2007"
+      volume:
+      number:
+      pages: 293-298
+      location: Vancouver, British Columbia, Canada
+      year: 2007
+      month: July
+      notes: acceptance rate 27%
+
+    - title: "On Discrete Event Diagnosis Methods for Continuous Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-MED-2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 15th IEEE Mediterranean Conference on Control and Automation"
+      volume:
+      number:
+      pages:
+      location:
+      year: 2007
+      month: June
+      notes:
+
+    - title: "A Discrete Event Approach to Diagnosis of Continuous Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-DiscreteEventApproachDiagnosisContinuousSystems-DX2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 18th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 259-266
+      location: Nashville, TN
+      year: 2007
+      month: May
+      notes:
+
+    - title: "Advanced Diagnostics and Prognostics Testbed"
+      authors: S. Poll, A. Patterson-Hine, J. Camisa, D. Garcia, D. Hall, C. Lee, O. Mengshoel, C. Neukom, D. Nishikawa, J. Ossenfort, A. Sweet, S. Yentus, I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      url: pubs/PollEtAl-ADAPT-DX2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 18th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 178-185
+      location: Nashville, TN
+      year: 2007
+      month: May
+      notes:
+
+    - title: "Fault Diagnosis of Civil Engineering Structures using the Bond Graph Approach"
+      authors: A. Moustafa, M. Daigle, I. Roychoudhury, C. Shantz, G. Biswas, S. Mahadevan, and X. Koutsoukos
+      url: pubs/MoustafaEtAl-FaultDiagnosisCivilEngineeringStructuresUsingBondGraphApproach-DX2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 18th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 146-153
+      location: Nashville, TN
+      year: 2007
+      month: May
+      notes:
+
+    - title: "Evaluation, Selection, and Application of Model-Based Diagnosis Tools and Approaches"
+      authors: S. Poll, A. Patterson-Hine, J. Camisa, D. Nishikawa, L. Spirkovska, D. Garcia, D. Hall, C. Neukom, A. Sweet, S. Yentus, C. Lee, J. Ossenfort, I. Roychoudhury, M. Daigle, G. Biswas, X. Koutsoukos, and R. Lutz
+      url: pubs/PollEtAl-AIAA2007.pdf
+      type: Unrefereed
+      school:
+      book: "AIAA Infotech@Aerospace 2007 Conference and Exhibit"
+      volume:
+      number:
+      pages:
+      location:
+      year: 2007
+      month: May
+      notes:
+
+    - title: "Distributed Diagnosis in Formations of Mobile Robots"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-DistributedDiagnosisInFormationsOfMobileRobots-Preprint.pdf
+      type: Journal
+      school:
+      book: "IEEE Transactions on Robotics"
+      volume: 23
+      number: 2
+      pages: 353-369
+      location:
+      year: 2007
+      month: April
+      notes:
+
+    - title: "Efficient Simulation of Component-Based Hybrid Models Represented as Hybrid Bond Graphs"
+      authors: M. Daigle, I. Roychoudhury, G. Biswas, and X. Koutsoukos
+      url: pubs/DaigleEtAl-HSCC-2007.pdf
+      type: Conference
+      school:
+      book: "Hybrid Systems: Computation and Control (HSCC 2007), Lecture Notes in Computer Science"
+      volume: 4416
+      number:
+      pages: 680-683
+      location: Pisa, Italy
+      year: 2007
+      month: April
+      notes: short paper
+
+    - title: "A Method for Efficient Simulation of Hybrid Bond Graphs"
+      authors: I. Roychoudhury, M. Daigle, X. Koutsoukos, G. Biswas, and P. J. Mosterman
+      url: pubs/RoychoudhuryEtAl-ICBGM-2007.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the International Conference on Bond Graph Modeling and Simulation (ICBGM 2007)"
+      volume:
+      number:
+      pages: 177-184
+      location: San Diego, CA
+      year: 2007
+      month: January
+      notes:
+
+- year: 2006
+  publications:
+
+    - title: "Efficient Simulation of Component-Based Hybrid Models Represented as Hybrid Bond Graphs"
+      authors: M. Daigle, I. Roychoudhury, G. Biswas, and X. Koutsoukos
+      url: pubs/DaigleEtAl-EfficientSimulationHBGs.pdf
+      type: Technical Report
+      school:
+      book: "Technical Report ISIS-06-712"
+      volume:
+      number:
+      pages:
+      location: Institute for Software Integrated Systems, Vanderbilt University
+      year: 2006
+      month: December
+      notes:
+
+    - title: "Multiple Fault Diagnosis in Complex Physical Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-DX-2006.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 17th International Workshop on Principles of Diagnosis"
+      volume:
+      number:
+      pages: 69-76
+      location:
+      year: 2006
+      month: June
+      notes:
+
+    - title: "Distributed Diagnosis of Coupled Mobile Robots"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-ICRA-2006.pdf
+      type: Conference
+      school:
+      book: "Proceedings of the 2006 IEEE International Conference on Robotics and Automation"
+      volume:
+      number:
+      pages: 3787-3794
+      location: Orlando, FL
+      year: 2006
+      month: May
+      notes: acceptance rate 39%
+
+- year: 2005
+  publications:
+
+    - title: "Advanced Synthetic Characters, Evil, and E"
+      authors: S. Bringsjord, S. Khemlani, K. Arkoudas, C. McEvoy, M. Destefano, and M. Daigle
+      url:
+      type: Conference
+      school:
+      book: "Game-On 2005, 6th International Conference on Intelligent Games and Simulation"
+      volume:
+      number:
+      pages: 31-39
+      location: Leicester, United Kingdom
+      year: 2005
+      month: November
+      notes: won best paper award
+
+    - title: "Relative Measurement Orderings in Diagnosis of Distributed Physical Systems"
+      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      url: pubs/DaigleEtAl-Allerton-2005.pdf
+      type: Unrefereed
+      school:
+      book: "Proceedings of the 43rd Annual Allerton Conference on Communication, Control, and Computing"
+      volume:
+      number:
+      pages: 1707-1716
+      location: Allerton, IL
+      year: 2005
+      month: September
+      notes: invited paper
