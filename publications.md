@@ -1,51 +1,11 @@
-<!DOCTYPE html>
-
-<html lang="en">
-<head>
-<title>matthew.j.daigle</title>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link rel="stylesheet" TYPE="text/css" HREF="style.css">
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|Open+Sans+Condensed:300|Amatic+SC:400,700' rel='stylesheet' type='text/css'>
-
-<script src="backend.js" type="text/javascript"></script>
-
-</head>
-
-<body>
-
-<div id="top">
-
-<div id="main">
-
-<div id="name">Matthew J. Daigle</div>
-<div id="subname">Principal Data Scientist, <a href="http://nio.io">NIO USA, Inc.</a></div>
-
-<div id="menu">
-    <span id="home" class="menuitem"><a href="index.html">Home</a></span>
-    <span id="research" class="menuitem"><a href="research.html">Research</a></span>
-    <span id="publications" class="menuitem">[Publications]</span>
-    <span id="software" class="menuitem"><a href="software.html">Software</a></span>
-    <span id="experience" class="menuitem"><a href="experience.html">Experience</a></span>
-    <span id="awards" class="menuitem"><a href="awards.html">Awards</a></span>
-    <span id="awards" class="menuitem"><a href="http://sporpgores.com">Art</a></span>
-</div>
-
-<div id="submenu">
-    <span id="catYear" class="tinymenuitem">[list by year]</span>
-    <span id="catType" class="tinymenuitem"><a href="publicationsByType.html">list by type</a></span>
-</div>
-
-<div id="content">
+---
+layout: home
+---
 
 
 
-<div id="pub-list">
 
-  <div class="heading">2017</div>
+## 2017
   <ul>
   <li>C. Teubert, <span class="name">M. Daigle</span>, S. Sankararaman, K, Goebel, and J. Watkins, "<a href="pubs/Teubert2017GSAP.pdf">A Generic Software Architecture for Prognostics</a>," <i>International Journal of Prognostics and Health Management</i>, vol. 8, no. 2, October 2017.
           [<span class="absButton" id="Teubert2017GSAP-AbstractButton" onclick="handleAbstract('Teubert2017GSAP-Abstract');" onmouseover="absLight('Teubert2017GSAP-AbstractButton');" onmouseout="unabsLight('Teubert2017GSAP-AbstractButton');">show abstract</span>]
@@ -83,9 +43,9 @@
       <div class="abstract" id="Sankararaman2017Trajectory-Abstract">
   <b>Abstract:</b> This paper presents a computational methodology for uncertainty quantification in predicting the trajectory of a generic, realistic aircraft based on information regarding flight plan, aircraft information, wind and weather information, etc. Predicting the trajectory of aircraft is important from the point of view of analyzing and predicting the safety of the overall airspace, and making risk-informed decisions regarding the operations of the airspace. The proposed methodology is based on using first-principles for analyzing the motion of the aircraft and estimating its future trajectory. Since the core of this problem lies in predicting the future behavior of a generic aircraft, it is essential to understand that it is almost impossible to precisely predict the future trajectory with certainty. Hence, an intuitive approach is to analyze the various sources of uncertainty that affect the aircraft prediction and quantify their combined effect on the whole trajectory. Further, this paper develops a global sensitivity analysis-based methodology to quantify the relative contributions of the various sources of uncertainty to the uncertainty of the overall trajectory. The proposed methodology is illustrated using a numerical example consisting of an aircraft that takes off from the San Francisco International Airport. </div>
   </li>
+</ul>
 
-      </ul>
-  <div class="heading">2016</div>
+## 2016
   <ul>
   <li>
   <span class="name">M. Daigle</span> and S. Sankararaman, "<a href="pubs/Daigle2016Predicting.pdf">Predicting Remaining Driving Time and Distance of a Planetary Rover under Uncertainty</a>," <i>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering</i>, vol. 2, no. 4, December 2016.
@@ -147,7 +107,7 @@
   </li>
 
       </ul>
-  <div class="heading">2015</div>
+## 2015
   <ul>
   <li>I. Roychoudhury, L. Spirkovska, <span class="name">M. Daigle</span>, E. Balaban, S. Sankararaman, C. Kulkarni, S. Poll, and K. Goebel, "<a href="pubs/Roychoudhury2015RealTime.pdf">Real-Time Monitoring and Prediction of Airspace Safety</a>," <i>NASA/TM-2015-218928</i>, NASA Ames Research Center, December 2015.
           [<span class="absButton" id="Roychoudhury2015RealTime-AbstractButton" onclick="handleAbstract('Roychoudhury2015RealTime-Abstract');" onmouseover="absLight('Roychoudhury2015RealTime-AbstractButton');" onmouseout="unabsLight('Roychoudhury2015RealTime-AbstractButton');">show abstract</span>]
@@ -209,7 +169,7 @@
   </li>
 
       </ul>
-  <div class="heading">2014</div>
+## 2014
   <ul>
   <li>C. Kulkarni, <span class="name">M. Daigle</span>, G. Gorospe, and K. Goebel, "<a href="pubs/KulkarniEtAl-Valves-PHM2014.pdf">Validation of Model-Based Prognostics for Pneumatic Valves in a Demonstration Testbed</a>," <i>Annual Conference of the Prognostics and Health Management Society 2014</i>, pp. 76-85, Fort Worth, TX, September 2014.
           (nominated for best paper award) [<span class="absButton" id="Kulkarni2014Valves-AbstractButton" onclick="handleAbstract('Kulkarni2014Valves-Abstract');" onmouseover="absLight('Kulkarni2014Valves-AbstractButton');" onmouseout="unabsLight('Kulkarni2014Valves-AbstractButton');">show abstract</span>]
@@ -302,7 +262,7 @@
   </li>
 
       </ul>
-  <div class="heading">2013</div>
+## 2013
   <ul>
   <li>
   <span class="name">M. Daigle</span>, I. Roychoudhury, and A. Bregon, "<a href="pubs/DaigleEtAl-QED2013.pdf">Qualitative Event-based Diagnosis with Possible Conflicts: Case Study on the Fourth International Diagnostic Competition</a>," <i>Proceedings of the 24th International Workshop on Principles of Diagnosis</i>, pp. 230-235, Jerusalem, Israel, October 2013.
@@ -394,7 +354,7 @@
   </li>
 
       </ul>
-  <div class="heading">2012</div>
+## 2012
   <ul>
   <li>
   <span class="name">M. Daigle</span>, A. Bregon, and I. Roychoudhury, "<a href="pubs/DaigleEtAl-PHM2012SystemLevel.pdf">A Distributed Approach to System-Level Prognostics</a>," <i>Annual Conference of the Prognostics and Health Management Society 2012</i>, pp. 71-82, Minneapolis, MN, September 2012.
@@ -450,7 +410,7 @@
   </li>
 
       </ul>
-  <div class="heading">2011</div>
+## 2011
   <ul>
   <li>V. Osipov, <span class="name">M. Daigle</span>, C. Muratov, M. Foygel, V. Smelyanskiy, and M. Watson, Dynamical Model of Rocket Propellant Loading with Liquid Hydrogen," <i>AIAA Journal of Spacecraft and Rockets</i>, vol. 48, no. 6, pp. 987-998, November 2011.
           [<span class="absButton" id="Osipov2011Dynamical-AbstractButton" onclick="handleAbstract('Osipov2011Dynamical-Abstract');" onmouseover="absLight('Osipov2011Dynamical-AbstractButton');" onmouseout="unabsLight('Osipov2011Dynamical-AbstractButton');">show abstract</span>]
@@ -538,7 +498,7 @@
   </li>
 
       </ul>
-  <div class="heading">2010</div>
+## 2010
   <ul>
   <li>
   <span class="name">M. Daigle</span>, X. Koutsoukos, and G. Biswas, "<a href="pubs/DaigleEtAl-IntegratedApproachHybridDiagnosis.pdf">An Event-based Approach to Integrated Parametric and Discrete Fault Diagnosis in Hybrid Systems</a>," <i>Transactions of the Institute of Measurement and Control, Special Issue on Hybrid and Switched Systems</i>, vol. 32, no. 5, pp. 487-510, October 2010.
@@ -601,7 +561,7 @@
   </li>
 
       </ul>
-  <div class="heading">2009</div>
+## 2009
   <ul>
   <li>
   <span class="name">M. Daigle</span> and K. Goebel, "<a href="pubs/DaigleEtAl-ModelBasedPrognosticsFixedLag-PHM2009.pdf">Model-based Prognostics with Fixed-lag Particle Filters</a>," <i>Proceedings of the Annual Conference of the Prognostics and Health Management Society 2009</i>, San Diego, CA, September 2009.
@@ -637,7 +597,7 @@
   </li>
 
       </ul>
-  <div class="heading">2008</div>
+## 2008
   <ul>
   <li>
   <span class="name">M. Daigle</span>, I. Roychoudhury, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll, "<a href="pubs/DaigleEtAl-ADAPTTechReport2008.pdf">A Comprehensive Diagnosis Methodology for Complex Hybrid Systems: A Case Study on Spacecraft Power Distribution Systems</a>," <i>Technical Report ISIS-08-908</i>, Institute for Software Integrated Systems, Vanderbilt University, December 2008.
@@ -687,7 +647,7 @@
   </li>
 
       </ul>
-  <div class="heading">2007</div>
+## 2007
   <ul>
   <li>
   <span class="name">M. Daigle</span>, X. Koutsoukos, and G. Biswas, "<a href="pubs/DaigleEtAl-CDC-2007.pdf">Fault Diagnosis of Continuous Systems Using Discrete-Event Methods</a>," <i>Proceedings of the 46th IEEE Conference on Decision and Control</i>, pp. 2626-2632, New Orleans, LA, Dec 2007.
@@ -756,7 +716,7 @@
   </li>
 
       </ul>
-  <div class="heading">2006</div>
+## 2006
   <ul>
   <li>
   <span class="name">M. Daigle</span>, I. Roychoudhury, G. Biswas, and X. Koutsoukos, "<a href="pubs/DaigleEtAl-EfficientSimulationHBGs.pdf">Efficient Simulation of Component-Based Hybrid Models Represented as Hybrid Bond Graphs</a>," <i>Technical Report ISIS-06-712</i>, Institute for Software Integrated Systems, Vanderbilt University, December 2006.
@@ -780,7 +740,7 @@
   </li>
 
       </ul>
-  <div class="heading">2005</div>
+## 2005
   <ul>
   <li>S. Bringsjord, S. Khemlani, K. Arkoudas, C. McEvoy, M. Destefano, and <span class="name">M. Daigle</span>, Advanced Synthetic Characters, Evil, and E," <i>Game-On 2005, 6th International Conference on Intelligent Games and Simulation</i>, pp. 31-39, Leicester, United Kingdom, November 2005.
           (won best paper award) [<span class="absButton" id="Bringsjord2005Synthetic-AbstractButton" onclick="handleAbstract('Bringsjord2005Synthetic-Abstract');" onmouseover="absLight('Bringsjord2005Synthetic-AbstractButton');" onmouseout="unabsLight('Bringsjord2005Synthetic-AbstractButton');">show abstract</span>]
@@ -796,21 +756,3 @@
   </li>
 
       </ul>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-</div>
-
-</div>
-
-</body>
-
-</html>
