@@ -5,7 +5,12 @@
   publications:
 
     - title: "A Generic Software Architecture for Prognostics"
-      authors: C. Teubert, M. Daigle, S. Sankararaman, K. Goebel, and J. Watkins
+      authors:
+        - C. Teubert
+        - M. Daigle
+        - S. Sankararaman
+        - K. Goebel
+        - J. Watkins
       url: pubs/Teubert2017GSAP.pdf
       type: Journal
       school:
@@ -19,7 +24,12 @@
       notes:
 
     - title: "GPU Accelerated Prognostics"
-      authors: G. Gorospe, M. Daigle, S. Sankararaman, C. Kulkarni, and E. Ng
+      authors:
+        - G. Gorospe
+        - M. Daigle
+        - S. Sankararaman
+        - C. Kulkarni
+        - E. Ng
       url: pubs/Gorospe2017GPU
       type: Conference
       school:
@@ -33,7 +43,14 @@
       notes:
 
     - title: "Real-Time Prediction of Safety Margins in the National Airspace"
-      authors: M. Daigle, I. Roychoudhury, L. Spirkovska, K. Goebel, S. Sankararaman, J. Ossenfort, and C. Kulkarni
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - L. Spirkovska
+        - K. Goebel
+        - S. Sankararaman
+        - J. Ossenfort
+        - C. Kulkarni
       url:
       type: Conference
       school:
@@ -47,7 +64,11 @@
       notes:
 
     - title: "Real Time Safety Monitoring: Concept for Supporting Safe Flight Operations"
-      authors: L. Spirkovska, I. Roychoudhury, M. Daigle, and K. Goebel
+      authors:
+        - L. Spirkovska
+        - I. Roychoudhury
+        - M. Daigle
+        - K. Goebel
       url:
       type: Conference
       school:
@@ -61,7 +82,13 @@
       notes:
 
     - title: "Prognostics: The Science of Making Predictions"
-      authors: K. Goebel, M. Daigle, A. Saxena, S. Sankararaman, I. Roychoudhury, and J. Celaya
+      authors:
+        - K. Goebel
+        - M. Daigle
+        - A. Saxena
+        - S. Sankararaman
+        - I. Roychoudhury
+        - J. Celaya
       url: http://a.co/f6TQn4B
       type: Book
       school:
@@ -75,7 +102,9 @@
       notes:
 
     - title: "Uncertainty Quantification in Trajectory Prediction for Aircraft Operations"
-      authors: S. Sankararaman and M. Daigle
+      authors:
+        - S. Sankararaman
+        - M. Daigle
       url: pubs/Sankararaman2017Trajectory.pdf
       type: Conference
       school:
@@ -92,7 +121,9 @@
   publications:
 
     - title: "Predicting Remaining Driving Time and Distance of a Planetary Rover under Uncertainty"
-      authors: M. Daigle and S. Sankararaman
+      authors:
+        - M. Daigle
+        - S. Sankararaman
       url: pubs/Daigle2016Predicting.pdf
       type: Journal
       school:
@@ -106,7 +137,10 @@
       notes:
 
     - title: "A Qualitative Fault Isolation Approach for Parametric and Discrete Faults Using Structural Model Decomposition"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/Daigle2016Hybrid.pdf
       type: Conference
       school:
@@ -120,7 +154,10 @@
       notes:
 
     - title: "System-level Prognostics for the National Airspace"
-      authors: M. Daigle, S. Sankararaman, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - S. Sankararaman
+        - I. Roychoudhury
       url: pubs/Daigle2016System.pdf
       type: Conference
       school:
@@ -134,7 +171,12 @@
       notes:
 
     - title: "A Qualitative Event-based Approach to Multiple Fault Diagnosis in Continuous Systems using Structural Model Decomposition"
-      authors: M. Daigle, A. Bregon, X. Koutsoukos, G. Biswas, and B. Pulido
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - X. Koutsoukos
+        - G. Biswas
+        - B. Pulido
       url: pubs/Daigle2016Multiple.pdf
       type: Journal
       school:
@@ -148,7 +190,10 @@
       notes:
 
     - title: "Qualitative Fault Isolation of Hybrid Systems: A Structural Model Decomposition-Based Approach"
-      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      authors:
+        - A. Bregon
+        - M. Daigle
+        - I. Roychoudhury
       url: pubs/Bregon2016Hybrid.pdf
       type: Conference
       school:
@@ -162,7 +207,16 @@
       notes:
 
     - title: "Initial Demonstration of the Real-time Safety Monitoring Framework for the National Airspace System Using Flight Data"
-      authors: I. Roychoudhury, M. Daigle, K. Goebel, L. Spirkovska, S. Sankararaman, J. Ossenfort, C. Kulkarni, W. McDermott, and S. Poll
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - K. Goebel
+        - L. Spirkovska
+        - S. Sankararaman
+        - J. Ossenfort
+        - C. Kulkarni
+        - W. McDermott
+        - S. Poll
       url:
       type: Conference
       school:
@@ -176,7 +230,11 @@
       notes:
 
     - title: "Health Monitoring of a Planetary Rover Using Hybrid Particle Petri Nets"
-      authors: Q. Gaudel, P. Ribot, E. Chanthery, and M. Daigle
+      authors:
+        - Q. Gaudel
+        - P. Ribot
+        - E. Chanthery
+        - M. Daigle
       url: pubs/Gaudel2016Health.pdf
       type: Conference
       school:
@@ -190,7 +248,9 @@
       notes:
 
     - title: "End-of-discharge and End-of-life Prediction in Lithium-ion Batteries with Electrochemistry-based Aging Models"
-      authors: M. Daigle and C. Kulkarni
+      authors:
+        - M. Daigle
+        - C. Kulkarni
       url: pubs/DaigleEtAl-BatteryAging-SciTech2016.pdf
       type: Conference
       school:
@@ -204,7 +264,15 @@
       notes:
 
     - title: "Predicting Real-Time Safety of the National Airspace System"
-      authors: I Roychoudhury, L Spirkovska, M Daigle, E. Balaban, S. Sankararaman, C. Kulkarni, S. Poll, and K. Goebel
+      authors:
+        - I Roychoudhury
+        - L Spirkovska
+        - M Daigle
+        - E. Balaban
+        - S. Sankararaman
+        - C. Kulkarni
+        - S. Poll
+        - K. Goebel
       url: pubs/RoychoudhuryEtAl-RTSM-SciTech2016.pdf
       type: Conference
       school:
@@ -221,7 +289,15 @@
   publications:
 
     - title: "Real-Time Monitoring and Prediction of Airspace Safety"
-      authors: I. Roychoudhury, L. Spirkovska, M. Daigle, E. Balaban, S. Sankararaman, C. Kulkarni, S. Poll, and K. Goebel
+      authors:
+        - I. Roychoudhury
+        - L. Spirkovska
+        - M. Daigle
+        - E. Balaban
+        - S. Sankararaman
+        - C. Kulkarni
+        - S. Poll
+        - K. Goebel
       url: pubs/Roychoudhury2015RealTime.pdf
       type: Technical Report
       school:
@@ -235,7 +311,8 @@
       notes:
 
     - title: "Real-time Prognostics of a Rotary Valve Actuator"
-      authors: M. Daigle
+      authors:
+        - M. Daigle
       url: pubs/Daigle-RotaryValveActuatorPrognostics-PHM2015.pdf
       type: Conference
       school:
@@ -249,7 +326,10 @@
       notes:
 
     - title: "Model-based Prognostics of Hybrid Systems"
-      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Bregon
       url: pubs/DaigleEtAl-HybridSystemsPrognosis-PHM2015.pdf
       type: Conference
       school:
@@ -263,7 +343,11 @@
       notes:
 
     - title: "A Testbed for Implementing Prognostic Methodologies on Cryogenic Propellant Loading Systems"
-      authors: C. Kulkarni, G. Gorospe, M. Daigle, and K. Goebel
+      authors:
+        - C. Kulkarni
+        - G. Gorospe
+        - M. Daigle
+        - K. Goebel
       url:
       type: Journal
       school:
@@ -277,7 +361,10 @@
       notes:
 
     - title: "A Structural Model Decomposition Framework for Hybrid Systems Diagnosis"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-Structural-DX2015.pdf
       type: Conference
       school:
@@ -291,7 +378,10 @@
       notes:
 
     - title: "Qualitative Event-based Diagnosis Applied to a Spacecraft Electrical Power Distribution System"
-      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Bregon
       url: pubs/DaigleEtAlQED2015.pdf
       type: Journal
       school:
@@ -305,7 +395,10 @@
       notes:
 
     - title: "An Integrated Framework for Distributed Diagnosis of Process and Sensor Faults"
-      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      authors:
+        - A. Bregon
+        - M. Daigle
+        - I. Roychoudhury
       url: pubs/BregonEtAl-DistributedProcessSensorDiagnosis-IEEEAero2015.pdf
       type: Conference
       school:
@@ -319,7 +412,10 @@
       notes:
 
     - title: "Stochastic Prediction of Remaining Driving Time and Distance for a Planetary Rover"
-      authors: M. Daigle, S. Sankararaman, and C. Kulkarni
+      authors:
+        - M. Daigle
+        - S. Sankararaman
+        - C. Kulkarni
       url: pubs/DaigleEtAl-RoverBHM-Aero2015.pdf
       type: Conference
       school:
@@ -333,7 +429,11 @@
       notes:
 
     - title: "Application of Model Based Prognostics to Pneumatic Valves in a Cryogenic Propellant Loading Testbed"
-      authors: C. Kulkarni, M. Daigle, G. Gorospe, and K. Goebel
+      authors:
+        - C. Kulkarni
+        - M. Daigle
+        - G. Gorospe
+        - K. Goebel
       url: pubs/Kulkarni-Valves-SciTech2015.pdf
       type: Conference
       school:
@@ -350,7 +450,11 @@
   publications:
 
     - title: "Validation of Model-Based Prognostics for Pneumatic Valves in a Demonstration Testbed"
-      authors: C. Kulkarni, M. Daigle, G. Gorospe, and K. Goebel
+      authors:
+        - C. Kulkarni
+        - M. Daigle
+        - G. Gorospe
+        - K. Goebel
       url: pubs/KulkarniEtAl-Valves-PHM2014.pdf
       type: Conference
       school:
@@ -364,7 +468,10 @@
       notes: nominated for best paper award
 
     - title: "Adaptation of an Electrochemistry-based Li-Ion Battery Model to Account for Deterioration Observed Under Randomized Use"
-      authors: B. Bole, C. Kulkarni, and M. Daigle
+      authors:
+        - B. Bole
+        - C. Kulkarni
+        - M. Daigle
       url: pubs/BoleEtAl-BatterySOH-PHM2014.pdf
       type: Conference
       school:
@@ -378,7 +485,14 @@
       notes:
 
     - title: "Demonstration of Prognostics-Enabled Decision Making Algorithms on a Hardware Mobile Robot Test Platform"
-      authors: A. Sweet, G. Gorospe, M. Daigle, J. Celaya, E. Balaban, I. Roychoudhury, and S. Narasimhan
+      authors:
+        - A. Sweet
+        - G. Gorospe
+        - M. Daigle
+        - J. Celaya
+        - E. Balaban
+        - I. Roychoudhury
+        - S. Narasimhan
       url: pubs/SweetEtAl-Rover-PHM2014.pdf
       type: Conference
       school:
@@ -392,7 +506,10 @@
       notes:
 
     - title: "Qualitative Event-Based Fault Isolation under Uncertain Observations"
-      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Bregon
       url: pubs/DaigleEtAl-pQED-PHM2014.pdf
       type: Conference
       school:
@@ -406,7 +523,10 @@
       notes:
 
     - title: "Integrated Diagnostics and Prognostics for the Electrical Power System of a Planetary Rover"
-      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Bregon
       url: pubs/DaigleEtAl-RoverEPS-PHM2014.pdf
       type: Conference
       school:
@@ -420,7 +540,11 @@
       notes:
 
     - title: "A Testbed for Implementing Prognostic Methodologies on Cryogenic Propellant Loading Systems"
-      authors: C. Kulkarni, G. Gorospe, M. Daigle, and K. Goebel
+      authors:
+        - C. Kulkarni
+        - G. Gorospe
+        - M. Daigle
+        - K. Goebel
       url: pubs/KulkarniEtAl-ValveTestbed-Autotestcon2014.pdf
       type: Conference
       school:
@@ -434,7 +558,10 @@
       notes: best paper award
 
     - title: "Diagnosability-Based Sensor Placement through Structural Model Decomposition"
-      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Bregon
       url: pubs/DaigleEtAl-SenorPlacement-PHME2014.pdf
       type: Conference
       school:
@@ -448,7 +575,10 @@
       notes:
 
     - title: "Online Prediction of Battery Discharge and Estimation of Parasitic Loads for an Electric Aircraft"
-      authors: B. Bole, M. Daigle, and G. Gorospe
+      authors:
+        - B. Bole
+        - M. Daigle
+        - G. Gorospe
       url: pubs/BoleEtAl-ElectricAircraftBatteryPrediction-PHME2014.pdf
       type: Conference
       school:
@@ -462,7 +592,10 @@
       notes:
 
     - title: "Uncertainty Quantification in Remaining Useful Life Prediction using First-Order Reliability Methods"
-      authors: S. Sankararaman, M. Daigle, and K. Goebel
+      authors:
+        - S. Sankararaman
+        - M. Daigle
+        - K. Goebel
       url: pubs/SankararamanEtAl-UncertaintyQuantificationRUL.pdf
       type: Journal
       school:
@@ -476,7 +609,10 @@
       notes:
 
     - title: "Distributed Prognostics Based on Structural Model Decomposition"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-DistributedPrognostics-IEEEToR.pdf
       type: Journal
       school:
@@ -490,7 +626,13 @@
       notes:
 
     - title: "An Event-based Distributed Diagnosis Framework using Structural Model Decomposition"
-      authors: A. Bregon, M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, and B. Pulido
+      authors:
+        - A. Bregon
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
+        - B. Pulido
       url: pubs/BregonEtAl-DistributedDiagnosis-AI.pdf
       type: Journal
       school:
@@ -504,7 +646,10 @@
       notes:
 
     - title: "Application of Model-based Prognostics to a Pneumatic Valves Testbed"
-      authors: M. Daigle, C. Kulkarni, and G. Gorospe
+      authors:
+        - M. Daigle
+        - C. Kulkarni
+        - G. Gorospe
       url: pubs/DaigleEtAl-Aero2014-Valves.pdf
       type: Conference
       school:
@@ -518,7 +663,9 @@
       notes:
 
     - title: "A Battery Health Monitoring Framework for Planetary Rovers"
-      authors: M. Daigle and C. Kulkarni
+      authors:
+        - M. Daigle
+        - C. Kulkarni
       url: pubs/DaigleEtAl-Aero2014-RoverBHM.pdf
       type: Conference
       school:
@@ -532,7 +679,9 @@
       notes: best paper award
 
     - title: "Current/Pressure Transducer Application of Model-Based Prognostics using Steady State Conditions"
-      authors: C. Teubert and M. Daigle
+      authors:
+        - C. Teubert
+        - M. Daigle
       url: pubs/TeubertEtAl-Aero2014-IPT.pdf
       type: Conference
       school:
@@ -549,7 +698,10 @@
   publications:
 
     - title: "Qualitative Event-based Diagnosis with Possible Conflicts: Case Study on the Fourth International Diagnostic Competition"
-      authors: M. Daigle, I. Roychoudhury, and A. Bregon
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Bregon
       url: pubs/DaigleEtAl-QED2013.pdf
       type: Conference
       school:
@@ -563,7 +715,12 @@
       notes:
 
     - title: "Fourth International Diagnostic Competition - DXC'13"
-      authors: A. Sweet, A. Feldman, S. Narasimhan, M. Daigle, and S. Poll
+      authors:
+        - A. Sweet
+        - A. Feldman
+        - S. Narasimhan
+        - M. Daigle
+        - S. Poll
       url: pubs/SweetEtAl-DXC2013.pdf
       type: Conference
       school:
@@ -577,7 +734,15 @@
       notes:
 
     - title: "Battery Charge Depletion Prediction on an Electric Aircraft"
-      authors: C. Quach, B. Bole, E. Hogge, S. Vazquez, M. Daigle, J. Celaya, A. Weber, and K. Goebel
+      authors:
+        - C. Quach
+        - B. Bole
+        - E. Hogge
+        - S. Vazquez
+        - M. Daigle
+        - J. Celaya
+        - A. Weber
+        - K. Goebel
       url: pubs/QuachEtAl-Edge-PHM2013.pdf
       type: Conference
       school:
@@ -591,7 +756,10 @@
       notes:
 
     - title: "A Cryogenic Fluid System Simulation in Support of Integrated Systems Health Management"
-      authors: J. Barber, K. Johnston, and M. Daigle
+      authors:
+        - J. Barber
+        - K. Johnston
+        - M. Daigle
       url: pubs/BarberEtAl-CryoSim-PHM2013.pdf
       type: Conference
       school:
@@ -605,7 +773,9 @@
       notes:
 
     - title: "I/P Transducer Application of Model-Based Wear Detection and Estimation using Steady State Conditions"
-      authors: C. Teubert and M. Daigle
+      authors:
+        - C. Teubert
+        - M. Daigle
       url: pubs/TeubertEtAl-IPT-PHM2013.pdf
       type: Conference
       school:
@@ -619,7 +789,9 @@
       notes:
 
     - title: "Electrochemistry-based Battery Modeling for Prognostics"
-      authors: M. Daigle and C. Kulkarni
+      authors:
+        - M. Daigle
+        - C. Kulkarni
       url: pubs/DaigleEtAl-Batteries-PHM2013.pdf
       type: Conference
       school:
@@ -633,7 +805,9 @@
       notes: nominated for best paper award
 
     - title: "Advanced Methods for Determining Prediction Uncertainty in Model-Based Prognostics with Application to Planetary Rovers"
-      authors: M. Daigle and S. Sankararaman
+      authors:
+        - M. Daigle
+        - S. Sankararaman
       url: pubs/DaigleEtAl-PredictionUncertainty-PHM2013.pdf
       type: Conference
       school:
@@ -647,7 +821,12 @@
       notes: nominated for best paper award
 
     - title: "An Efficient Model-based Diagnosis Engine for Hybrid Systems using Structural Model Decomposition"
-      authors: A. Bregon, S. Narasimhan, I. Roychoudhury, M. Daigle, and B. Pulido
+      authors:
+        - A. Bregon
+        - S. Narasimhan
+        - I. Roychoudhury
+        - M. Daigle
+        - B. Pulido
       url: pubs/BregonEtAl-HyDEPCs-PHM2013.pdf
       type: Conference
       school:
@@ -661,7 +840,10 @@
       notes:
 
     - title: "Implementation of Prognostic Methodologies to Cryogenic Propellant Loading Testbed"
-      authors: C. Kulkarni, M. Daigle, and K. Goebel
+      authors:
+        - C. Kulkarni
+        - M. Daigle
+        - K. Goebel
       url: pubs/KulkarniEtAl-AUTOTESTCON2013.pdf
       type: Conference
       school:
@@ -675,7 +857,14 @@
       notes:
 
     - title: "Development of a Mobile Robot Test Platform and Methods for Validation of Prognostics-Enabled Decision Making Algorithms"
-      authors: E. Balaban, S. Narasimhan, M. Daigle, I. Roychoudhury, A. Sweet, C. Bond, and G. Gorospe
+      authors:
+        - E. Balaban
+        - S. Narasimhan
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Sweet
+        - C. Bond
+        - G. Gorospe
       url: pubs/BalabanEtAl-MobileRobotTestPlatform-IJPHM.pdf
       type: Journal
       school:
@@ -689,7 +878,9 @@
       notes:
 
     - title: "Model-based Prognostics with Concurrent Damage Progression Processes"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-PrognosticsConcurrentDamage-SMC.pdf
       type: Journal
       school:
@@ -703,7 +894,11 @@
       notes:
 
     - title: "A Structural Model Decomposition Framework for Systems Health Management"
-      authors: I. Roychoudhury, M. Daigle, A. Bregon, and B. Pulido
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - A. Bregon
+        - B. Pulido
       url: pubs/RoychoudhuryEtAl-Aero2013.pdf
       type: Conference
       school:
@@ -717,7 +912,11 @@
       notes:
 
     - title: "Analytical Algorithms to Quantify the Uncertainty in Remaining Useful Life Prediction"
-      authors: S. Sankararaman, M. Daigle, A. Saxena, and K. Goebel
+      authors:
+        - S. Sankararaman
+        - M. Daigle
+        - A. Saxena
+        - K. Goebel
       url: pubs/SankararamanEtAl-Aero2013.pdf
       type: Conference
       school:
@@ -731,7 +930,11 @@
       notes:
 
     - title: "Temperature Stratification in a Cryogenic Fuel Tank"
-      authors: M. Daigle, J. Boschee, M. Foygel, and V. Smelyanskiy
+      authors:
+        - M. Daigle
+        - J. Boschee
+        - M. Foygel
+        - V. Smelyanskiy
       url: pubs/DaigleEtAl-ThermalStratification.pdf
       type: Journal
       school:
@@ -748,7 +951,10 @@
   publications:
 
     - title: "A Distributed Approach to System-Level Prognostics"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-PHM2012SystemLevel.pdf
       type: Conference
       school:
@@ -762,7 +968,10 @@
       notes:
 
     - title: "An Efficient Deterministic Approach to Model-based Prediction Uncertainty Estimation"
-      authors: M. Daigle, A. Saxena, and K. Goebel
+      authors:
+        - M. Daigle
+        - A. Saxena
+        - K. Goebel
       url: pubs/DaigleEtAl-PHM2012Uncertainty.pdf
       type: Conference
       school:
@@ -776,7 +985,10 @@
       notes:
 
     - title: "An Integrated Framework for Model-based Distributed Diagnosis and Prognosis"
-      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      authors:
+        - A. Bregon
+        - M. Daigle
+        - I. Roychoudhury
       url: pubs/BregonEtAl-PHM2012DDP.pdf
       type: Conference
       school:
@@ -790,7 +1002,14 @@
       notes:
 
     - title: "Autonomous Decision Making for Planetary Rovers Using Diagnostic and Prognostic Information"
-      authors: S. Narasimhan, E. Balaban, M. Daigle, I. Roychoudhury, A. Sweet, J. Celaya, and K. Goebel
+      authors:
+        - S. Narasimhan
+        - E. Balaban
+        - M. Daigle
+        - I. Roychoudhury
+        - A. Sweet
+        - J. Celaya
+        - K. Goebel
       url: pubs/NarasimhanEtAl-Rover-Safeprocess2012.pdf
       type: Conference
       school:
@@ -804,7 +1023,12 @@
       notes:
 
     - title: "Improving Multiple Fault Diagnosability using Possible Conflicts"
-      authors: M. Daigle, A. Bregon, G. Biswas, X. Koutsoukos, and B. Pulido
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - G. Biswas
+        - X. Koutsoukos
+        - B. Pulido
       url: pubs/DaigleEtAl-MultipleFaultsPCs-Safeprocess2012.pdf
       type: Conference
       school:
@@ -818,7 +1042,10 @@
       notes:
 
     - title: "Qualitative Event-based Diagnosis with Possible Conflicts Applied to Spacecraft Power Distribution Systems"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-QED-Safeprocess2012.pdf
       type: Conference
       school:
@@ -832,7 +1059,10 @@
       notes:
 
     - title: "An Integrated Model-Based Distributed Diagnosis and Prognosis Framework"
-      authors: A. Bregon, M. Daigle, and I. Roychoudhury
+      authors:
+        - A. Bregon
+        - M. Daigle
+        - I. Roychoudhury
       url: pubs/BregonEtAl-DDP-DX2012.pdf
       type: Conference
       school:
@@ -846,7 +1076,10 @@
       notes:
 
     - title: "A Comparison of Filter-based Approaches for Model-based Prognostics"
-      authors: M. Daigle, B. Saha, and K. Goebel
+      authors:
+        - M. Daigle
+        - B. Saha
+        - K. Goebel
       url: pubs/DaigleEtAl-FilterBasedPrognostics-Aero2012.pdf
       type: Conference
       school:
@@ -863,7 +1096,13 @@
   publications:
 
     - title: "Dynamical Model of Rocket Propellant Loading with Liquid Hydrogen"
-      authors: V. Osipov, M. Daigle, C. Muratov, M. Foygel, V. Smelyanskiy, and M. Watson
+      authors:
+        - V. Osipov
+        - M. Daigle
+        - C. Muratov
+        - M. Foygel
+        - V. Smelyanskiy
+        - M. Watson
       url:
       type: Journal
       school:
@@ -877,7 +1116,17 @@
       notes:
 
     - title: "Third International Diagnostic Competition - DXC'11"
-      authors: S. Poll, J. de Kleer, R. Abreau, M. Daigle, A. Feldman, D. Garcia, A. Gonzalez-Sanchez, T. Kurtoglu, S. Narasimhan, and A. Sweet
+      authors:
+        - S. Poll
+        - J. de Kleer
+        - R. Abreau
+        - M. Daigle
+        - A. Feldman
+        - D. Garcia
+        - A. Gonzalez-Sanchez
+        - T. Kurtoglu
+        - S. Narasimhan
+        - A. Sweet
       url: pubs/PollEtAl-DXC11.pdf
       type: Conference
       school:
@@ -891,7 +1140,10 @@
       notes:
 
     - title: "Qualitative Event-based Diagnosis with Possible Conflicts: Case Study on the Third International Diagnostic Competition"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-QED-DXC11.pdf
       type: Conference
       school:
@@ -905,7 +1157,13 @@
       notes:
 
     - title: "Improving Distributed Diagnosis Through Structural Model Decomposition"
-      authors: A. Bregon, M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, and B. Pulido
+      authors:
+        - A. Bregon
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
+        - B. Pulido
       url: pubs/BregonEtAl-ImprovingDistribDiagnosis-DX2011.pdf
       type: Conference
       school:
@@ -919,7 +1177,9 @@
       notes:
 
     - title: "An Integrated Model-Based Diagnostic and Prognostic Framework"
-      authors: I. Roychoudhury and M. Daigle
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
       url: pubs/RoychoudhuryEtAl-CombinedProgDiag-DX2011.pdf
       type: Conference
       school:
@@ -933,7 +1193,10 @@
       notes:
 
     - title: "Distributed Damage Estimation for Prognostics Based on Structural Model Decomposition"
-      authors: M. Daigle, A. Bregon, and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - A. Bregon
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-DistribDamageEstimation-PHM2011.pdf
       type: Conference
       school:
@@ -947,7 +1210,13 @@
       notes: nominated for best paper award
 
     - title: "Investigating the Effect of Damage Progression Model Choice on Prognostics Performance"
-      authors: M. Daigle, I. Roychoudhury, S. Narasimhan, S. Saha, B. Saha, and K. Goebel
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - S. Narasimhan
+        - S. Saha
+        - B. Saha
+        - K. Goebel
       url: pubs/DaigleEtAl-InvestigatingDamageProgression-PHM2011.pdf
       type: Conference
       school:
@@ -961,7 +1230,15 @@
       notes: won best paper award - theory paper
 
     - title: "A Mobile Robot Testbed for Prognostics-Enabled Autonomous Decision Making"
-      authors: E. Balaban, S. Narasimhan, M. Daigle, J. Celaya, I. Roychoudhury, B. Saha, S. Saha, and K. Goebel
+      authors:
+        - E. Balaban
+        - S. Narasimhan
+        - M. Daigle
+        - J. Celaya
+        - I. Roychoudhury
+        - B. Saha
+        - S. Saha
+        - K. Goebel
       url: pubs/BalabanEtAl-MobileRobotTestbed-PHM2011.pdf
       type: Conference
       school:
@@ -975,7 +1252,9 @@
       notes: nominated for best paper award
 
     - title: "A Model-based Prognostics Approach Applied to Pneumatic Valves"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-IJPHM-Valves.pdf
       type: Journal
       school:
@@ -989,7 +1268,11 @@
       notes:
 
     - title: "Efficient Simulation of Hybrid Systems: A Hybrid Bond Graph Approach"
-      authors: I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/RoychoudhuryEtAl-EfficientSimulationHBGs.PDF
       type: Journal
       school:
@@ -1003,7 +1286,9 @@
       notes:
 
     - title: "Prognostics for Ground Support Systems: Case Study on Pneumatic Valves"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-PrognosticsValvesCaseStudy-Infotech2011.pdf
       type: Unrefereed
       school:
@@ -1017,7 +1302,9 @@
       notes:
 
     - title: "Multiple Damage Progression Paths in Model-based Prognostics"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-MultipleDamagePrognostics-Aerospace2011.pdf
       type: Conference
       school:
@@ -1031,7 +1318,10 @@
       notes:
 
     - title: "Model-based Diagnostics for Propellant Loading Systems"
-      authors: M. Daigle, M. Foygel, and V. Smelyanskiy
+      authors:
+        - M. Daigle
+        - M. Foygel
+        - V. Smelyanskiy
       url: pubs/DaigleEtAl-DiagnosticsLH2-Aerospace2011.pdf
       type: Conference
       school:
@@ -1048,7 +1338,10 @@
   publications:
 
     - title: "An Event-based Approach to Integrated Parametric and Discrete Fault Diagnosis in Hybrid Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-IntegratedApproachHybridDiagnosis.pdf
       type: Journal
       school:
@@ -1062,7 +1355,9 @@
       notes:
 
     - title: "Qualitative Event-based Diagnosis: Case Study on the Second International Diagnostic Competition"
-      authors: M. Daigle and I. Roychoudhury
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
       url: pubs/DaigleEtAl-QED-DXC10.pdf
       type: Conference
       school:
@@ -1076,7 +1371,11 @@
       notes:
 
     - title: "An Event-based Approach to Distributed Diagnosis of Continuous Systems"
-      authors: M. Daigle, I. Roychoudhury, G. Biswas, and X. Koutsoukos
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/DaigleEtAl-DX2010.pdf
       type: Conference
       school:
@@ -1090,7 +1389,9 @@
       notes:
 
     - title: "Improving Computational Efficiency of Prediction in Model-based Prognostics Using the Unscented Transform"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-PHM2010.pdf
       type: Conference
       school:
@@ -1104,7 +1405,13 @@
       notes:
 
     - title: "A Comprehensive Diagnosis Methodology for Complex Hybrid Systems: A Case Study on Spacecraft Power Distribution Systems"
-      authors: M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
+        - A. Patterson-Hine
+        - S. Poll
       url: pubs/DaigleEtAl-ComprehensiveDiagnosisHybridSystemsADAPT.pdf
       type: Journal
       school:
@@ -1118,7 +1425,13 @@
       notes:
 
     - title: "A Dynamical Physics Model of Nominal and Faulty Operational Modes of Propellant Loading (Liquid Hydrogen): From Space Shuttle to Future Missions"
-      authors: V. Osipov, C. Muratov, M. Daigle, M. Foygel, V. Smelyanskiy, and A. Patterson-Hine
+      authors:
+        - V. Osipov
+        - C. Muratov
+        - M. Daigle
+        - M. Foygel
+        - V. Smelyanskiy
+        - A. Patterson-Hine
       url:
       type: Technical Report
       school:
@@ -1132,7 +1445,10 @@
       notes:
 
     - title: "Tackling Verification and Validation for Prognostics"
-      authors: M. S. Feather, K. Goebel, and M. Daigle
+      authors:
+        - M. S. Feather
+        - K. Goebel
+        - M. Daigle
       url: pubs/FeatherEtAl-TacklingVAndVForPrognostics.pdf
       type: Unrefereed
       school:
@@ -1146,7 +1462,11 @@
       notes:
 
     - title: "Structural and Sensor Damage Identification using the Bond Graph Approach"
-      authors: A. Moustafa, S. Mahadevan, M. Daigle, and G. Biswas
+      authors:
+        - A. Moustafa
+        - S. Mahadevan
+        - M. Daigle
+        - G. Biswas
       url:
       type: Journal
       school:
@@ -1160,7 +1480,9 @@
       notes:
 
     - title: "Model-based Prognostics under Limited Sensing"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-PrognosticsLimitedSensing.pdf
       type: Conference
       school:
@@ -1177,7 +1499,9 @@
   publications:
 
     - title: "Model-based Prognostics with Fixed-lag Particle Filters"
-      authors: M. Daigle and K. Goebel
+      authors:
+        - M. Daigle
+        - K. Goebel
       url: pubs/DaigleEtAl-ModelBasedPrognosticsFixedLag-PHM2009.pdf
       type: Conference
       school:
@@ -1191,7 +1515,10 @@
       notes:
 
     - title: "Improving Diagnosability of Hybrid Systems through Active Diagnosis"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-Safeprocess2009-ActiveDiagnosis.pdf
       type: Conference
       school:
@@ -1205,7 +1532,13 @@
       notes: invited paper
 
     - title: "Comprehensive Diagnosis of Complex Electrical Power Distribution Systems"
-      authors: I. Roychoudhury, M. Daigle, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - G. Biswas
+        - X. Koutsoukos
+        - A. Patterson-Hine
+        - S. Poll
       url: pubs/RoychoudhuryEtAl-Safeprocess2009-ComprehensiveACDCDiagnosis.pdf
       type: Conference
       school:
@@ -1219,7 +1552,10 @@
       notes: invited paper, session acceptance rate 33%
 
     - title: "A Qualitative Event-based Approach to Continuous Systems Diagnosis"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-QualitativeEventBasedApproachFaultDiagnosisContinuousSystems.pdf
       type: Journal
       school:
@@ -1233,7 +1569,13 @@
       notes:
 
     - title: "Applying Model-based Diagnosis to a Rapid Propellant Loading System"
-      authors: C. Goodrich, S. Narasimhan, M. Daigle, W. Hatfield, R. Johnson, and B. Brown
+      authors:
+        - C. Goodrich
+        - S. Narasimhan
+        - M. Daigle
+        - W. Hatfield
+        - R. Johnson
+        - B. Brown
       url: pubs/GoodrichEtAl-RapidPropellantLoading-DX-2009.pdf
       type: Conference
       school:
@@ -1250,7 +1592,13 @@
   publications:
 
     - title: "A Comprehensive Diagnosis Methodology for Complex Hybrid Systems: A Case Study on Spacecraft Power Distribution Systems"
-      authors: M. Daigle, I. Roychoudhury, G. Biswas, X. Koutsoukos, A. Patterson-Hine, and S. Poll
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
+        - A. Patterson-Hine
+        - S. Poll
       url: pubs/DaigleEtAl-ADAPTTechReport2008.pdf
       type: Technical Report
       school:
@@ -1264,7 +1612,11 @@
       notes:
 
     - title: "An Efficient Method for Simulating Complex Systems with Switching Behaviors Using Hybrid Bond Graphs"
-      authors: I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/RoychoudhuryEtAl-SNE-2008.pdf
       type: Journal
       school:
@@ -1278,7 +1630,10 @@
       notes:
 
     - title: "An Event-based Approach to Hybrid Systems Diagnosability"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-HybridDiagnosability-DX-2008.pdf
       type: Conference
       school:
@@ -1292,7 +1647,11 @@
       notes:
 
     - title: "Efficient Simulation of Hybrid Systems: An Application to Electrical Power Distribution Systems"
-      authors: I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/RoychoudhuryEtAl-ECMS-2008.pdf
       type: Conference
       school:
@@ -1306,7 +1665,8 @@
       notes:
 
     - title: "A Qualitative Event-based Approach to Fault Diagnosis of Hybrid Systems"
-      authors: M. Daigle
+      authors:
+        - M. Daigle
       url: pubs/DaigleDissertation.pdf
       type: Dissertation
       school: Vanderbilt University
@@ -1320,7 +1680,10 @@
       notes:
 
     - title: "An Integrated Approach to Parametric and Discrete Fault Diagnosis in Hybrid Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-HSCC-2008.pdf
       type: Conference
       school:
@@ -1334,7 +1697,10 @@
       notes: short paper
 
     - title: "An Integrated Approach to Parametric and Discrete Fault Diagnosis in Hybrid Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-IntegratedParametricDiscreteDiagnosis.pdf
       type: Technical Report
       school:
@@ -1351,7 +1717,10 @@
   publications:
 
     - title: "Fault Diagnosis of Continuous Systems Using Discrete-Event Methods"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-CDC-2007.pdf
       type: Conference
       school:
@@ -1365,7 +1734,10 @@
       notes:
 
     - title: "A Qualitative Approach to Multiple Fault Isolation in Continuous Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-AAAI-2007.pdf
       type: Conference
       school:
@@ -1379,7 +1751,10 @@
       notes: acceptance rate 27%
 
     - title: "On Discrete Event Diagnosis Methods for Continuous Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-MED-2007.pdf
       type: Conference
       school:
@@ -1393,7 +1768,10 @@
       notes:
 
     - title: "A Discrete Event Approach to Diagnosis of Continuous Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-DiscreteEventApproachDiagnosisContinuousSystems-DX2007.pdf
       type: Conference
       school:
@@ -1407,7 +1785,23 @@
       notes:
 
     - title: "Advanced Diagnostics and Prognostics Testbed"
-      authors: S. Poll, A. Patterson-Hine, J. Camisa, D. Garcia, D. Hall, C. Lee, O. Mengshoel, C. Neukom, D. Nishikawa, J. Ossenfort, A. Sweet, S. Yentus, I. Roychoudhury, M. Daigle, G. Biswas, and X. Koutsoukos
+      authors:
+        - S. Poll
+        - A. Patterson-Hine
+        - J. Camisa
+        - D. Garcia
+        - D. Hall
+        - C. Lee
+        - O. Mengshoel
+        - C. Neukom
+        - D. Nishikawa
+        - J. Ossenfort
+        - A. Sweet
+        - S. Yentus
+        - I. Roychoudhury
+        - M. Daigle
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/PollEtAl-ADAPT-DX2007.pdf
       type: Conference
       school:
@@ -1421,7 +1815,14 @@
       notes:
 
     - title: "Fault Diagnosis of Civil Engineering Structures using the Bond Graph Approach"
-      authors: A. Moustafa, M. Daigle, I. Roychoudhury, C. Shantz, G. Biswas, S. Mahadevan, and X. Koutsoukos
+      authors:
+        - A. Moustafa
+        - M. Daigle
+        - I. Roychoudhury
+        - C. Shantz
+        - G. Biswas
+        - S. Mahadevan
+        - X. Koutsoukos
       url: pubs/MoustafaEtAl-FaultDiagnosisCivilEngineeringStructuresUsingBondGraphApproach-DX2007.pdf
       type: Conference
       school:
@@ -1435,7 +1836,24 @@
       notes:
 
     - title: "Evaluation, Selection, and Application of Model-Based Diagnosis Tools and Approaches"
-      authors: S. Poll, A. Patterson-Hine, J. Camisa, D. Nishikawa, L. Spirkovska, D. Garcia, D. Hall, C. Neukom, A. Sweet, S. Yentus, C. Lee, J. Ossenfort, I. Roychoudhury, M. Daigle, G. Biswas, X. Koutsoukos, and R. Lutz
+      authors:
+        - S. Poll
+        - A. Patterson-Hine
+        - J. Camisa
+        - D. Nishikawa
+        - L. Spirkovska
+        - D. Garcia
+        - D. Hall
+        - C. Neukom
+        - A. Sweet
+        - S. Yentus
+        - C. Lee
+        - J. Ossenfort
+        - I. Roychoudhury
+        - M. Daigle
+        - G. Biswas
+        - X. Koutsoukos
+        - R. Lutz
       url: pubs/PollEtAl-AIAA2007.pdf
       type: Unrefereed
       school:
@@ -1449,7 +1867,10 @@
       notes:
 
     - title: "Distributed Diagnosis in Formations of Mobile Robots"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-DistributedDiagnosisInFormationsOfMobileRobots-Preprint.pdf
       type: Journal
       school:
@@ -1463,7 +1884,11 @@
       notes:
 
     - title: "Efficient Simulation of Component-Based Hybrid Models Represented as Hybrid Bond Graphs"
-      authors: M. Daigle, I. Roychoudhury, G. Biswas, and X. Koutsoukos
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/DaigleEtAl-HSCC-2007.pdf
       type: Conference
       school:
@@ -1477,7 +1902,12 @@
       notes: short paper
 
     - title: "A Method for Efficient Simulation of Hybrid Bond Graphs"
-      authors: I. Roychoudhury, M. Daigle, X. Koutsoukos, G. Biswas, and P. J. Mosterman
+      authors:
+        - I. Roychoudhury
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
+        - P. J. Mosterman
       url: pubs/RoychoudhuryEtAl-ICBGM-2007.pdf
       type: Conference
       school:
@@ -1494,7 +1924,11 @@
   publications:
 
     - title: "Efficient Simulation of Component-Based Hybrid Models Represented as Hybrid Bond Graphs"
-      authors: M. Daigle, I. Roychoudhury, G. Biswas, and X. Koutsoukos
+      authors:
+        - M. Daigle
+        - I. Roychoudhury
+        - G. Biswas
+        - X. Koutsoukos
       url: pubs/DaigleEtAl-EfficientSimulationHBGs.pdf
       type: Technical Report
       school:
@@ -1508,7 +1942,10 @@
       notes:
 
     - title: "Multiple Fault Diagnosis in Complex Physical Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-DX-2006.pdf
       type: Conference
       school:
@@ -1522,7 +1959,10 @@
       notes:
 
     - title: "Distributed Diagnosis of Coupled Mobile Robots"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-ICRA-2006.pdf
       type: Conference
       school:
@@ -1539,7 +1979,13 @@
   publications:
 
     - title: "Advanced Synthetic Characters, Evil, and E"
-      authors: S. Bringsjord, S. Khemlani, K. Arkoudas, C. McEvoy, M. Destefano, and M. Daigle
+      authors:
+        - S. Bringsjord
+        - S. Khemlani
+        - K. Arkoudas
+        - C. McEvoy
+        - M. Destefano
+        - M. Daigle
       url:
       type: Conference
       school:
@@ -1553,7 +1999,10 @@
       notes: won best paper award
 
     - title: "Relative Measurement Orderings in Diagnosis of Distributed Physical Systems"
-      authors: M. Daigle, X. Koutsoukos, and G. Biswas
+      authors:
+        - M. Daigle
+        - X. Koutsoukos
+        - G. Biswas
       url: pubs/DaigleEtAl-Allerton-2005.pdf
       type: Unrefereed
       school:
