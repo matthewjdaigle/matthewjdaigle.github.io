@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /research/
 ---
 
 ## NASA Ames Research Center

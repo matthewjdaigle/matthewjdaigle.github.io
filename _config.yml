@@ -22,8 +22,7 @@ github_username:  matthewjdaigle
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 
 exclude: [Gemfile, Gemfile.lock]
