@@ -7,7 +7,7 @@ permalink: /
 
 ## About
 
-<img id="profile" src="/images/profile.jpeg">
+<img id="profile" width="200" src="/images/profile.jpeg">
 
 I am a research scientist working in the areas of artificial intelligence, machine learning,
 and data science. While I have worked in diverse application domains and topics such as electric automobiles and aircraft, robotics, cryogenic propellant systems, simulation, and airspace safety, my main research emphasis is in systems health management, that is, I develop algorithms through which machines can self-diagnose their condition and predict their future failures.
