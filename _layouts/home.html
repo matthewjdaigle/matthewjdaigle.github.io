@@ -34,14 +34,12 @@
 </div>
 
 <div id="menu">
-    <span id="home" class="menuitem"><a href="/">Home</a></span>
-    <span id="research" class="menuitem"><a href="/research">Research</a></span>
-    <span id="publications" class="menuitem"><a href="/publications">Publications</a></span>
-    <span id="book" class="menuitem"><a href="/book">Book</a></span>
-    <span id="software" class="menuitem"><a href="/software">Software</a></span>
-    <span id="experience" class="menuitem"><a href="/experience">Experience</a></span>
-    <span id="awards" class="menuitem"><a href="/awards">Awards</a></span>
-    <span id="art" class="menuitem"><a href="http://sporpgores.com">Art</a></span>
+    <span class="menuitem">{% if page.title=='Matthew J. Daigle' %}[{% endif %}<a href="/">Home</a>{% if page.title=='Matthew J. Daigle' %}]{% endif %}</span>
+    <span class="menuitem">{% if page.title=='Curriculum Vitae' %}[{% endif %}<a href="/CV">CV</a>{% if page.title=='Curriculum Vitae' %}]{% endif %}</span>
+    <span class="menuitem">{% if page.title=='Publications' %}[{% endif %}<a href="/publications">Publications</a>{% if page.title=='Publications' %}]{% endif %}</span>
+    <span class="menuitem">{% if page.title=='Book' %}[{% endif %}<a href="/book">Book</a>{% if page.title=='Book' %}]{% endif %}</span>
+    <span class="menuitem">{% if page.title=='Software' %}[{% endif %}<a href="/software">Software</a>{% if page.title=='Software' %}]{% endif %}</span>
+    <span class="menuitem"><a href="http://sporpgores.com">Art</a></span>
 </div>
 
 <div id="content">

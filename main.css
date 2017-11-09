@@ -18,7 +18,7 @@ a:hover{color:#FFFFFF;text-decoration:none;font-weight:bold;}
 #name {padding-top:0.5em;font-family: 'Amatic SC', cursive;font-size:330%;font-weight:bold;}
 #subname {font-family: 'Open Sans Condensed', sans-serif;font-size:145%;font-weight:bold;
 	border-bottom:1px solid #444444; padding-bottom:0.25em;}
-#content {padding-top:0.25em;padding-bottom:1em;}
+#content {padding-top:0.25em;padding-bottom:1em;line-height: 1.5;}
 #profile {float:right; border:1px solid #444444; margin-left:1em; margin-bottom:1em; width:200px;}
 
 #menu {color:#FFC670;font-family: 'Open Sans Condensed', sans-serif;font-size:165%;font-weight:bold;padding-top:1em;}
@@ -39,6 +39,8 @@ a:hover{color:#FFFFFF;text-decoration:none;font-weight:bold;}
 
 .name {font-weight:bold;color:#FFC670;}
 h2 {font-family: 'Open Sans Condensed', sans-serif;font-size:165%;margin-top:1em;margin-bottom:0.5em;}
+h3 {font-family: 'Open Sans Condensed', sans-serif;font-size:135%;margin-top:1em;margin-bottom:0.5em;}
+
 
 .iconSet {float:right;font-size:70%;}
 .icon {padding:0.1em;width:1.5em;height:1.5em;}

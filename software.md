@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /software/
+title: Software
 ---
 
 ## Open-Source Software

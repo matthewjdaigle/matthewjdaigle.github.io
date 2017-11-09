@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: book
+title: Book
 ---
 
 

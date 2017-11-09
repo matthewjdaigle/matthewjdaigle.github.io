@@ -1,9 +1,8 @@
 ---
 layout: home
 permalink: /
+title: Matthew J. Daigle
 ---
-
-
 
 ## About
 
@@ -12,7 +11,7 @@ permalink: /
 I am a research scientist working in the areas of artificial intelligence, machine learning,
 and data science. While I have worked in diverse application domains and topics such as electric automobiles and aircraft, robotics, cryogenic propellant systems, simulation, and airspace safety, my main research emphasis is in systems health management, that is, I develop algorithms through which machines can self-diagnose their condition and predict their future failures.
 
-Currently, I am a Principal Data Scientist at [NIO USA, Inc.](https://www.nio.io). Prior to joining NIO, I was a Research Computer Scientist and Lead of the [Prognostics &\amp; Diagnostics Group](http://prognostics.nasa.gov) at [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html). Prior to that, I was an Associate
+Currently, I am a Principal Data Scientist at [NIO USA, Inc.](https://www.nio.io). Prior to joining NIO, I was a Research Computer Scientist and Lead of the [Prognostics &amp; Diagnostics Group](http://prognostics.nasa.gov) at [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html). Prior to that, I was an Associate
 Scientist with the [University of California, Santa Cruz](http://ucsc.edu) at NASA Ames.
 
 I received the B.S. degree in Computer Science and Computer and Systems Engineering from [Rensselaer Polytechnic Institute](http://rpi.edu), Troy, NY, in 2004, and the M.S. and Ph.D. degrees in Computer Science from [Vanderbilt University](http://vanderbilt.edu), Nashville, TN, in 2006 and 2008, respectively. From September 2004 to May 2008, I was a Graduate Research Assistant with the [Institute for Software Integrated Systems](http://www.isis.vanderbilt.edu/) and Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN.
