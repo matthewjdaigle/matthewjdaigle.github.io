@@ -30,9 +30,10 @@ Graduate Research Assistant, Model-based Embedded Systems (ModES) Lab, Modeling 
 
 ### Teaching
 
-- "Prognostics Methods", "Prognostics Case Studies", PHM Fundamentals Short Course, Annual Conference of the Prognostics and Health Management Society 2017, St. Petersburg, FL, October, 2017
-- "Prognostics Methods", "Prognostics Case Studies", PHM Fundamentals Short Course, Annual Conference of the Prognostics and Health Management Society 2016, San Diego, CA, October, 2016
-- [“Model-based Prognostics”](http://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/Daigle-ModelBasedPrognostics-Tutorial-PHM2014_1.pdf&nid=1523) (Tutorial), Annual Conference of the Prognostics and Health Management Society 2014, Fort Worth, TX, October, 2014
+- "Prognostics Methods", "Prognostics Case Studies", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2017*, St. Petersburg, FL, October, 2017
+- "Diagnosing Multiple Faults with Qualitative Models", "Introduction to Prognostic", *International Summer School on Fault Diagnosis of Complex Systems*, Terrassa, Spain, July 2017
+- "Prognostics Methods", "Prognostics Case Studies", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2016*, San Diego, CA, October, 2016
+- [“Model-based Prognostics”](http://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/Daigle-ModelBasedPrognostics-Tutorial-PHM2014_1.pdf&nid=1523) (Tutorial), *Annual Conference of the Prognostics and Health Management Society* 2014, Fort Worth, TX, October, 2014
 
 ### Publications
 
