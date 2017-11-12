@@ -10,6 +10,7 @@ title: Book
 <img src="/images/prognostics-cover.png" width="200" style="float:left">
 
 <div markdown="1" style="margin-left:15em">
+*Authors*: K. Goebel, M. Daigle, A. Saxena, S. Sankararaman, I. Roychoudhury, and J. Celaya
 *Paperback*: 396 pages  
 *ISBN-10*: 1539074838  
 *ISBN-13*: 978-1539074830  
