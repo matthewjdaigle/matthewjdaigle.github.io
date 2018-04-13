@@ -76,7 +76,7 @@
         - S. Sankararaman
         - K. Goebel
         - J. Watkins
-      url: pubs/Teubert2017GSAP.pdf
+      url: Teubert2017GSAP.pdf
       type: Journal
       school:
       book: "International Journal of Prognostics and Health Management"
@@ -98,7 +98,7 @@
         - S. Sankararaman
         - C. Kulkarni
         - E. Ng
-      url: pubs/Gorospe2017GPU
+      url: Gorospe2017GPU
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2016"
@@ -185,7 +185,7 @@
       authors:
         - S. Sankararaman
         - M. Daigle
-      url: pubs/Sankararaman2017Trajectory.pdf
+      url: Sankararaman2017Trajectory.pdf
       type: Conference
       school:
       book: "AIAA Guidance, Navigation, and Control Conference"
@@ -207,7 +207,7 @@
       authors:
         - M. Daigle
         - S. Sankararaman
-      url: pubs/Daigle2016Predicting.pdf
+      url: Daigle2016Predicting.pdf
       type: Journal
       school:
       book: "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering"
@@ -227,7 +227,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/Daigle2016Hybrid.pdf
+      url: Daigle2016Hybrid.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2016"
@@ -247,7 +247,7 @@
         - M. Daigle
         - S. Sankararaman
         - I. Roychoudhury
-      url: pubs/Daigle2016System.pdf
+      url: Daigle2016System.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2016"
@@ -269,7 +269,7 @@
         - X. Koutsoukos
         - G. Biswas
         - B. Pulido
-      url: pubs/Daigle2016Multiple.pdf
+      url: Daigle2016Multiple.pdf
       type: Journal
       school:
       book: "Engineering Applications of Artificial Intelligence"
@@ -289,7 +289,7 @@
         - A. Bregon
         - M. Daigle
         - I. Roychoudhury
-      url: pubs/Bregon2016Hybrid.pdf
+      url: Bregon2016Hybrid.pdf
       type: Conference
       school:
       book: "Third European Conference of the PHM Society 2016"
@@ -336,7 +336,7 @@
         - P. Ribot
         - E. Chanthery
         - M. Daigle
-      url: pubs/Gaudel2016Health.pdf
+      url: Gaudel2016Health.pdf
       type: Conference
       school:
       book: "37th International Conference on Applications and Theory of Petri Nets and Concurrency"
@@ -355,7 +355,7 @@
       authors:
         - M. Daigle
         - C. Kulkarni
-      url: pubs/DaigleEtAl-BatteryAging-SciTech2016.pdf
+      url: DaigleEtAl-BatteryAging-SciTech2016.pdf
       type: Conference
       school:
       book: "AIAA Infotech@Aerospace Conference"
@@ -380,7 +380,7 @@
         - C. Kulkarni
         - S. Poll
         - K. Goebel
-      url: pubs/RoychoudhuryEtAl-RTSM-SciTech2016.pdf
+      url: RoychoudhuryEtAl-RTSM-SciTech2016.pdf
       type: Conference
       school:
       book: "AIAA Infotech@Aerospace Conference"
@@ -408,7 +408,7 @@
         - C. Kulkarni
         - S. Poll
         - K. Goebel
-      url: pubs/Roychoudhury2015RealTime.pdf
+      url: Roychoudhury2015RealTime.pdf
       type: Technical Report
       school:
       book: "NASA/TM-2015-218928"
@@ -426,7 +426,7 @@
     - title: "Real-time Prognostics of a Rotary Valve Actuator"
       authors:
         - M. Daigle
-      url: pubs/Daigle-RotaryValveActuatorPrognostics-PHM2015.pdf
+      url: Daigle-RotaryValveActuatorPrognostics-PHM2015.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2015"
@@ -446,7 +446,7 @@
         - M. Daigle
         - I. Roychoudhury
         - A. Bregon
-      url: pubs/DaigleEtAl-HybridSystemsPrognosis-PHM2015.pdf
+      url: DaigleEtAl-HybridSystemsPrognosis-PHM2015.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2015"
@@ -487,7 +487,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-Structural-DX2015.pdf
+      url: DaigleEtAl-Structural-DX2015.pdf
       type: Conference
       school:
       book: "26th International Workshop on Principles of Diagnosis"
@@ -507,7 +507,7 @@
         - M. Daigle
         - I. Roychoudhury
         - A. Bregon
-      url: pubs/DaigleEtAlQED2015.pdf
+      url: DaigleEtAlQED2015.pdf
       type: Journal
       school:
       book: "Control Engineering Practice"
@@ -527,7 +527,7 @@
         - A. Bregon
         - M. Daigle
         - I. Roychoudhury
-      url: pubs/BregonEtAl-DistributedProcessSensorDiagnosis-IEEEAero2015.pdf
+      url: BregonEtAl-DistributedProcessSensorDiagnosis-IEEEAero2015.pdf
       type: Conference
       school:
       book: "2015 IEEE Aerospace Conference"
@@ -547,7 +547,7 @@
         - M. Daigle
         - S. Sankararaman
         - C. Kulkarni
-      url: pubs/DaigleEtAl-RoverBHM-Aero2015.pdf
+      url: DaigleEtAl-RoverBHM-Aero2015.pdf
       type: Conference
       school:
       book: "2015 IEEE Aerospace Conference"
@@ -568,7 +568,7 @@
         - M. Daigle
         - G. Gorospe
         - K. Goebel
-      url: pubs/Kulkarni-Valves-SciTech2015.pdf
+      url: Kulkarni-Valves-SciTech2015.pdf
       type: Conference
       school:
       book: "AIAA SciTech Conference"
@@ -592,7 +592,7 @@
         - M. Daigle
         - G. Gorospe
         - K. Goebel
-      url: pubs/KulkarniEtAl-Valves-PHM2014.pdf
+      url: KulkarniEtAl-Valves-PHM2014.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2014"
@@ -612,7 +612,7 @@
         - B. Bole
         - C. Kulkarni
         - M. Daigle
-      url: pubs/BoleEtAl-BatterySOH-PHM2014.pdf
+      url: BoleEtAl-BatterySOH-PHM2014.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2014"
@@ -636,7 +636,7 @@
         - E. Balaban
         - I. Roychoudhury
         - S. Narasimhan
-      url: pubs/SweetEtAl-Rover-PHM2014.pdf
+      url: SweetEtAl-Rover-PHM2014.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2014"
@@ -656,7 +656,7 @@
         - M. Daigle
         - I. Roychoudhury
         - A. Bregon
-      url: pubs/DaigleEtAl-pQED-PHM2014.pdf
+      url: DaigleEtAl-pQED-PHM2014.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2014"
@@ -676,7 +676,7 @@
         - M. Daigle
         - I. Roychoudhury
         - A. Bregon
-      url: pubs/DaigleEtAl-RoverEPS-PHM2014.pdf
+      url: DaigleEtAl-RoverEPS-PHM2014.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2014"
@@ -697,7 +697,7 @@
         - G. Gorospe
         - M. Daigle
         - K. Goebel
-      url: pubs/KulkarniEtAl-ValveTestbed-Autotestcon2014.pdf
+      url: KulkarniEtAl-ValveTestbed-Autotestcon2014.pdf
       type: Conference
       school:
       book: "2014 IEEE Systems Readiness Technology Conference (AUTOTESTCON)"
@@ -717,7 +717,7 @@
         - M. Daigle
         - I. Roychoudhury
         - A. Bregon
-      url: pubs/DaigleEtAl-SenorPlacement-PHME2014.pdf
+      url: DaigleEtAl-SenorPlacement-PHME2014.pdf
       type: Conference
       school:
       book: "Second European Conference of the Prognostics and Health Management Society 2014"
@@ -737,7 +737,7 @@
         - B. Bole
         - M. Daigle
         - G. Gorospe
-      url: pubs/BoleEtAl-ElectricAircraftBatteryPrediction-PHME2014.pdf
+      url: BoleEtAl-ElectricAircraftBatteryPrediction-PHME2014.pdf
       type: Conference
       school:
       book: "Second European Conference of the Prognostics and Health Management Society 2014"
@@ -757,7 +757,7 @@
         - S. Sankararaman
         - M. Daigle
         - K. Goebel
-      url: pubs/SankararamanEtAl-UncertaintyQuantificationRUL.pdf
+      url: SankararamanEtAl-UncertaintyQuantificationRUL.pdf
       type: Journal
       school:
       book: "IEEE Transactions on Reliability"
@@ -777,7 +777,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-DistributedPrognostics-IEEEToR.pdf
+      url: DaigleEtAl-DistributedPrognostics-IEEEToR.pdf
       type: Journal
       school:
       book: "IEEE Transactions on Reliability"
@@ -800,7 +800,7 @@
         - G. Biswas
         - X. Koutsoukos
         - B. Pulido
-      url: pubs/BregonEtAl-DistributedDiagnosis-AI.pdf
+      url: BregonEtAl-DistributedDiagnosis-AI.pdf
       type: Journal
       school:
       book: "Artificial Intelligence"
@@ -820,7 +820,7 @@
         - M. Daigle
         - C. Kulkarni
         - G. Gorospe
-      url: pubs/DaigleEtAl-Aero2014-Valves.pdf
+      url: DaigleEtAl-Aero2014-Valves.pdf
       type: Conference
       school:
       book: "2014 IEEE Aerospace Conference"
@@ -839,7 +839,7 @@
       authors:
         - M. Daigle
         - C. Kulkarni
-      url: pubs/DaigleEtAl-Aero2014-RoverBHM.pdf
+      url: DaigleEtAl-Aero2014-RoverBHM.pdf
       type: Conference
       school:
       book: "2014 IEEE Aerospace Conference"
@@ -858,7 +858,7 @@
       authors:
         - C. Teubert
         - M. Daigle
-      url: pubs/TeubertEtAl-Aero2014-IPT.pdf
+      url: TeubertEtAl-Aero2014-IPT.pdf
       type: Conference
       school:
       book: "2014 IEEE Aerospace Conference"
@@ -881,7 +881,7 @@
         - M. Daigle
         - I. Roychoudhury
         - A. Bregon
-      url: pubs/DaigleEtAl-QED2013.pdf
+      url: DaigleEtAl-QED2013.pdf
       type: Conference
       school:
       book: "Proceedings of the 24th International Workshop on Principles of Diagnosis"
@@ -903,7 +903,7 @@
         - S. Narasimhan
         - M. Daigle
         - S. Poll
-      url: pubs/SweetEtAl-DXC2013.pdf
+      url: SweetEtAl-DXC2013.pdf
       type: Conference
       school:
       book: "Proceedings of the 24th International Workshop on Principles of Diagnosis"
@@ -928,7 +928,7 @@
         - J. Celaya
         - A. Weber
         - K. Goebel
-      url: pubs/QuachEtAl-Edge-PHM2013.pdf
+      url: QuachEtAl-Edge-PHM2013.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2013"
@@ -948,7 +948,7 @@
         - J. Barber
         - K. Johnston
         - M. Daigle
-      url: pubs/BarberEtAl-CryoSim-PHM2013.pdf
+      url: BarberEtAl-CryoSim-PHM2013.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2013"
@@ -967,7 +967,7 @@
       authors:
         - C. Teubert
         - M. Daigle
-      url: pubs/TeubertEtAl-IPT-PHM2013.pdf
+      url: TeubertEtAl-IPT-PHM2013.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2013"
@@ -986,7 +986,7 @@
       authors:
         - M. Daigle
         - C. Kulkarni
-      url: pubs/DaigleEtAl-Batteries-PHM2013.pdf
+      url: DaigleEtAl-Batteries-PHM2013.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2013"
@@ -1005,7 +1005,7 @@
       authors:
         - M. Daigle
         - S. Sankararaman
-      url: pubs/DaigleEtAl-PredictionUncertainty-PHM2013.pdf
+      url: DaigleEtAl-PredictionUncertainty-PHM2013.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2013"
@@ -1027,7 +1027,7 @@
         - I. Roychoudhury
         - M. Daigle
         - B. Pulido
-      url: pubs/BregonEtAl-HyDEPCs-PHM2013.pdf
+      url: BregonEtAl-HyDEPCs-PHM2013.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2013"
@@ -1047,7 +1047,7 @@
         - C. Kulkarni
         - M. Daigle
         - K. Goebel
-      url: pubs/KulkarniEtAl-AUTOTESTCON2013.pdf
+      url: KulkarniEtAl-AUTOTESTCON2013.pdf
       type: Conference
       school:
       book: "2013 IEEE Systems Readiness Technology Conference (AUTOTESTCON)"
@@ -1071,7 +1071,7 @@
         - A. Sweet
         - C. Bond
         - G. Gorospe
-      url: pubs/BalabanEtAl-MobileRobotTestPlatform-IJPHM.pdf
+      url: BalabanEtAl-MobileRobotTestPlatform-IJPHM.pdf
       type: Journal
       school:
       book: "International Journal of Prognostics and Health Management"
@@ -1090,7 +1090,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-PrognosticsConcurrentDamage-SMC.pdf
+      url: DaigleEtAl-PrognosticsConcurrentDamage-SMC.pdf
       type: Journal
       school:
       book: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
@@ -1111,7 +1111,7 @@
         - M. Daigle
         - A. Bregon
         - B. Pulido
-      url: pubs/RoychoudhuryEtAl-Aero2013.pdf
+      url: RoychoudhuryEtAl-Aero2013.pdf
       type: Conference
       school:
       book: "2013 IEEE Aerospace Conference"
@@ -1132,7 +1132,7 @@
         - M. Daigle
         - A. Saxena
         - K. Goebel
-      url: pubs/SankararamanEtAl-Aero2013.pdf
+      url: SankararamanEtAl-Aero2013.pdf
       type: Conference
       school:
       book: "2013 IEEE Aerospace Conference"
@@ -1153,7 +1153,7 @@
         - J. Boschee
         - M. Foygel
         - V. Smelyanskiy
-      url: pubs/DaigleEtAl-ThermalStratification.pdf
+      url: DaigleEtAl-ThermalStratification.pdf
       type: Journal
       school:
       book: "AIAA Journal of Thermophysics and Heat Transfer"
@@ -1176,7 +1176,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-PHM2012SystemLevel.pdf
+      url: DaigleEtAl-PHM2012SystemLevel.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2012"
@@ -1196,7 +1196,7 @@
         - M. Daigle
         - A. Saxena
         - K. Goebel
-      url: pubs/DaigleEtAl-PHM2012Uncertainty.pdf
+      url: DaigleEtAl-PHM2012Uncertainty.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2012"
@@ -1216,7 +1216,7 @@
         - A. Bregon
         - M. Daigle
         - I. Roychoudhury
-      url: pubs/BregonEtAl-PHM2012DDP.pdf
+      url: BregonEtAl-PHM2012DDP.pdf
       type: Conference
       school:
       book: "Annual Conference of the Prognostics and Health Management Society 2012"
@@ -1240,7 +1240,7 @@
         - A. Sweet
         - J. Celaya
         - K. Goebel
-      url: pubs/NarasimhanEtAl-Rover-Safeprocess2012.pdf
+      url: NarasimhanEtAl-Rover-Safeprocess2012.pdf
       type: Conference
       school:
       book: "8th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
@@ -1262,7 +1262,7 @@
         - G. Biswas
         - X. Koutsoukos
         - B. Pulido
-      url: pubs/DaigleEtAl-MultipleFaultsPCs-Safeprocess2012.pdf
+      url: DaigleEtAl-MultipleFaultsPCs-Safeprocess2012.pdf
       type: Conference
       school:
       book: "8th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
@@ -1282,7 +1282,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-QED-Safeprocess2012.pdf
+      url: DaigleEtAl-QED-Safeprocess2012.pdf
       type: Conference
       school:
       book: "8th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
@@ -1302,7 +1302,7 @@
         - A. Bregon
         - M. Daigle
         - I. Roychoudhury
-      url: pubs/BregonEtAl-DDP-DX2012.pdf
+      url: BregonEtAl-DDP-DX2012.pdf
       type: Conference
       school:
       book: "Proceedings of the 23rd International Workshop on Principles of Diagnosis"
@@ -1322,7 +1322,7 @@
         - M. Daigle
         - B. Saha
         - K. Goebel
-      url: pubs/DaigleEtAl-FilterBasedPrognostics-Aero2012.pdf
+      url: DaigleEtAl-FilterBasedPrognostics-Aero2012.pdf
       type: Conference
       school:
       book: "2012 IEEE Aerospace Conference"
@@ -1375,7 +1375,7 @@
         - T. Kurtoglu
         - S. Narasimhan
         - A. Sweet
-      url: pubs/PollEtAl-DXC11.pdf
+      url: PollEtAl-DXC11.pdf
       type: Conference
       school:
       book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
@@ -1395,7 +1395,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-QED-DXC11.pdf
+      url: DaigleEtAl-QED-DXC11.pdf
       type: Conference
       school:
       book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
@@ -1418,7 +1418,7 @@
         - G. Biswas
         - X. Koutsoukos
         - B. Pulido
-      url: pubs/BregonEtAl-ImprovingDistribDiagnosis-DX2011.pdf
+      url: BregonEtAl-ImprovingDistribDiagnosis-DX2011.pdf
       type: Conference
       school:
       book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
@@ -1437,7 +1437,7 @@
       authors:
         - I. Roychoudhury
         - M. Daigle
-      url: pubs/RoychoudhuryEtAl-CombinedProgDiag-DX2011.pdf
+      url: RoychoudhuryEtAl-CombinedProgDiag-DX2011.pdf
       type: Conference
       school:
       book: "Proceedings of the 22nd International Workshop on Principles of Diagnosis"
@@ -1457,7 +1457,7 @@
         - M. Daigle
         - A. Bregon
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-DistribDamageEstimation-PHM2011.pdf
+      url: DaigleEtAl-DistribDamageEstimation-PHM2011.pdf
       type: Conference
       school:
       book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2011"
@@ -1480,7 +1480,7 @@
         - S. Saha
         - B. Saha
         - K. Goebel
-      url: pubs/DaigleEtAl-InvestigatingDamageProgression-PHM2011.pdf
+      url: DaigleEtAl-InvestigatingDamageProgression-PHM2011.pdf
       type: Conference
       school:
       book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2011"
@@ -1505,7 +1505,7 @@
         - B. Saha
         - S. Saha
         - K. Goebel
-      url: pubs/BalabanEtAl-MobileRobotTestbed-PHM2011.pdf
+      url: BalabanEtAl-MobileRobotTestbed-PHM2011.pdf
       type: Conference
       school:
       book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2011"
@@ -1524,7 +1524,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-IJPHM-Valves.pdf
+      url: DaigleEtAl-IJPHM-Valves.pdf
       type: Journal
       school:
       book: "International Journal of Prognostics and Health Management"
@@ -1545,7 +1545,7 @@
         - M. Daigle
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/RoychoudhuryEtAl-EfficientSimulationHBGs.PDF
+      url: RoychoudhuryEtAl-EfficientSimulationHBGs.PDF
       type: Journal
       school:
       book: "Simulation: Transactions of The Society for Modeling and Simulation International"
@@ -1564,7 +1564,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-PrognosticsValvesCaseStudy-Infotech2011.pdf
+      url: DaigleEtAl-PrognosticsValvesCaseStudy-Infotech2011.pdf
       type: Unrefereed
       school:
       book: "Proceedings of AIAA Infotech@Aerospace 2011 Conference"
@@ -1583,7 +1583,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-MultipleDamagePrognostics-Aerospace2011.pdf
+      url: DaigleEtAl-MultipleDamagePrognostics-Aerospace2011.pdf
       type: Conference
       school:
       book: "Proceedings of the 2011 IEEE Aerospace Conference"
@@ -1603,7 +1603,7 @@
         - M. Daigle
         - M. Foygel
         - V. Smelyanskiy
-      url: pubs/DaigleEtAl-DiagnosticsLH2-Aerospace2011.pdf
+      url: DaigleEtAl-DiagnosticsLH2-Aerospace2011.pdf
       type: Conference
       school:
       book: "Proceedings of the 2011 IEEE Aerospace Conference"
@@ -1626,7 +1626,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-IntegratedApproachHybridDiagnosis.pdf
+      url: DaigleEtAl-IntegratedApproachHybridDiagnosis.pdf
       type: Journal
       school:
       book: "Transactions of the Institute of Measurement and Control, Special Issue on Hybrid and Switched Systems"
@@ -1645,7 +1645,7 @@
       authors:
         - M. Daigle
         - I. Roychoudhury
-      url: pubs/DaigleEtAl-QED-DXC10.pdf
+      url: DaigleEtAl-QED-DXC10.pdf
       type: Conference
       school:
       book: "Proceedings of the 21st International Workshop on Principles of Diagnosis"
@@ -1666,7 +1666,7 @@
         - I. Roychoudhury
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/DaigleEtAl-DX2010.pdf
+      url: DaigleEtAl-DX2010.pdf
       type: Conference
       school:
       book: "Proceedings of the 21st International Workshop on Principles of Diagnosis"
@@ -1685,7 +1685,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-PHM2010.pdf
+      url: DaigleEtAl-PHM2010.pdf
       type: Conference
       school:
       book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2010"
@@ -1708,7 +1708,7 @@
         - X. Koutsoukos
         - A. Patterson-Hine
         - S. Poll
-      url: pubs/DaigleEtAl-ComprehensiveDiagnosisHybridSystemsADAPT.pdf
+      url: DaigleEtAl-ComprehensiveDiagnosisHybridSystemsADAPT.pdf
       type: Journal
       school:
       book: "IEEE Transactions of Systems, Man, and Cybernetics, Part A, Special Section on Model-based Diagnosis: Facing Challenges in Real-world Applications"
@@ -1751,7 +1751,7 @@
         - M. S. Feather
         - K. Goebel
         - M. Daigle
-      url: pubs/FeatherEtAl-TacklingVAndVForPrognostics.pdf
+      url: FeatherEtAl-TacklingVAndVForPrognostics.pdf
       type: Unrefereed
       school:
       book: "Proceedings of the SpaceOps 2010 Conference"
@@ -1791,7 +1791,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-PrognosticsLimitedSensing.pdf
+      url: DaigleEtAl-PrognosticsLimitedSensing.pdf
       type: Conference
       school:
       book: "2010 IEEE Aerospace Conference"
@@ -1813,7 +1813,7 @@
       authors:
         - M. Daigle
         - K. Goebel
-      url: pubs/DaigleEtAl-ModelBasedPrognosticsFixedLag-PHM2009.pdf
+      url: DaigleEtAl-ModelBasedPrognosticsFixedLag-PHM2009.pdf
       type: Conference
       school:
       book: "Proceedings of the Annual Conference of the Prognostics and Health Management Society 2009"
@@ -1833,7 +1833,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-Safeprocess2009-ActiveDiagnosis.pdf
+      url: DaigleEtAl-Safeprocess2009-ActiveDiagnosis.pdf
       type: Conference
       school:
       book: "Proceedings of the 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
@@ -1856,7 +1856,7 @@
         - X. Koutsoukos
         - A. Patterson-Hine
         - S. Poll
-      url: pubs/RoychoudhuryEtAl-Safeprocess2009-ComprehensiveACDCDiagnosis.pdf
+      url: RoychoudhuryEtAl-Safeprocess2009-ComprehensiveACDCDiagnosis.pdf
       type: Conference
       school:
       book: "Proceedings of the 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes"
@@ -1876,7 +1876,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-QualitativeEventBasedApproachFaultDiagnosisContinuousSystems.pdf
+      url: DaigleEtAl-QualitativeEventBasedApproachFaultDiagnosisContinuousSystems.pdf
       type: Journal
       school:
       book: "IEEE Transactions on Control Systems Technology"
@@ -1899,7 +1899,7 @@
         - W. Hatfield
         - R. Johnson
         - B. Brown
-      url: pubs/GoodrichEtAl-RapidPropellantLoading-DX-2009.pdf
+      url: GoodrichEtAl-RapidPropellantLoading-DX-2009.pdf
       type: Conference
       school:
       book: "Proceedings of the 20th International Workshop on Principles of Diagnosis"
@@ -1925,7 +1925,7 @@
         - X. Koutsoukos
         - A. Patterson-Hine
         - S. Poll
-      url: pubs/DaigleEtAl-ADAPTTechReport2008.pdf
+      url: DaigleEtAl-ADAPTTechReport2008.pdf
       type: Technical Report
       school:
       book: "Technical Report ISIS-08-908"
@@ -1946,7 +1946,7 @@
         - M. Daigle
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/RoychoudhuryEtAl-SNE-2008.pdf
+      url: RoychoudhuryEtAl-SNE-2008.pdf
       type: Journal
       school:
       book: "Simulation News Europe"
@@ -1966,7 +1966,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-HybridDiagnosability-DX-2008.pdf
+      url: DaigleEtAl-HybridDiagnosability-DX-2008.pdf
       type: Conference
       school:
       book: "Proceedings of the 19th International Workshop on Principles of Diagnosis"
@@ -1987,7 +1987,7 @@
         - M. Daigle
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/RoychoudhuryEtAl-ECMS-2008.pdf
+      url: RoychoudhuryEtAl-ECMS-2008.pdf
       type: Conference
       school:
       book: "Proceedings of the 22nd European Conference on Modeling and Simulation"
@@ -2005,7 +2005,7 @@
     - title: "A Qualitative Event-based Approach to Fault Diagnosis of Hybrid Systems"
       authors:
         - M. Daigle
-      url: pubs/DaigleDissertation.pdf
+      url: DaigleDissertation.pdf
       type: Dissertation
       school: Vanderbilt University
       book: ""
@@ -2025,7 +2025,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-HSCC-2008.pdf
+      url: DaigleEtAl-HSCC-2008.pdf
       type: Conference
       school:
       book: "Hybrid Systems: Computation and Control (HSCC 2008), Lecture Notes in Computer Science"
@@ -2045,7 +2045,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-IntegratedParametricDiscreteDiagnosis.pdf
+      url: DaigleEtAl-IntegratedParametricDiscreteDiagnosis.pdf
       type: Technical Report
       school:
       book: "Technical Report ISIS-07-815"
@@ -2068,7 +2068,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-CDC-2007.pdf
+      url: DaigleEtAl-CDC-2007.pdf
       type: Conference
       school:
       book: "Proceedings of the 46th IEEE Conference on Decision and Control"
@@ -2088,7 +2088,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-AAAI-2007.pdf
+      url: DaigleEtAl-AAAI-2007.pdf
       type: Conference
       school:
       book: "Proceedings of the Twenty-Second AAAI National Conference 2007"
@@ -2108,7 +2108,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-MED-2007.pdf
+      url: DaigleEtAl-MED-2007.pdf
       type: Conference
       school:
       book: "Proceedings of the 15th IEEE Mediterranean Conference on Control and Automation"
@@ -2128,7 +2128,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-DiscreteEventApproachDiagnosisContinuousSystems-DX2007.pdf
+      url: DaigleEtAl-DiscreteEventApproachDiagnosisContinuousSystems-DX2007.pdf
       type: Conference
       school:
       book: "Proceedings of the 18th International Workshop on Principles of Diagnosis"
@@ -2161,7 +2161,7 @@
         - M. Daigle
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/PollEtAl-ADAPT-DX2007.pdf
+      url: PollEtAl-ADAPT-DX2007.pdf
       type: Conference
       school:
       book: "Proceedings of the 18th International Workshop on Principles of Diagnosis"
@@ -2185,7 +2185,7 @@
         - G. Biswas
         - S. Mahadevan
         - X. Koutsoukos
-      url: pubs/MoustafaEtAl-FaultDiagnosisCivilEngineeringStructuresUsingBondGraphApproach-DX2007.pdf
+      url: MoustafaEtAl-FaultDiagnosisCivilEngineeringStructuresUsingBondGraphApproach-DX2007.pdf
       type: Conference
       school:
       book: "Proceedings of the 18th International Workshop on Principles of Diagnosis"
@@ -2219,7 +2219,7 @@
         - G. Biswas
         - X. Koutsoukos
         - R. Lutz
-      url: pubs/PollEtAl-AIAA2007.pdf
+      url: PollEtAl-AIAA2007.pdf
       type: Unrefereed
       school:
       book: "AIAA Infotech@Aerospace 2007 Conference and Exhibit"
@@ -2239,7 +2239,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-DistributedDiagnosisInFormationsOfMobileRobots-Preprint.pdf
+      url: DaigleEtAl-DistributedDiagnosisInFormationsOfMobileRobots-Preprint.pdf
       type: Journal
       school:
       book: "IEEE Transactions on Robotics"
@@ -2260,7 +2260,7 @@
         - I. Roychoudhury
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/DaigleEtAl-HSCC-2007.pdf
+      url: DaigleEtAl-HSCC-2007.pdf
       type: Conference
       school:
       book: "Hybrid Systems: Computation and Control (HSCC 2007), Lecture Notes in Computer Science"
@@ -2282,7 +2282,7 @@
         - X. Koutsoukos
         - G. Biswas
         - P. J. Mosterman
-      url: pubs/RoychoudhuryEtAl-ICBGM-2007.pdf
+      url: RoychoudhuryEtAl-ICBGM-2007.pdf
       type: Conference
       school:
       book: "Proceedings of the International Conference on Bond Graph Modeling and Simulation (ICBGM 2007)"
@@ -2306,7 +2306,7 @@
         - I. Roychoudhury
         - G. Biswas
         - X. Koutsoukos
-      url: pubs/DaigleEtAl-EfficientSimulationHBGs.pdf
+      url: DaigleEtAl-EfficientSimulationHBGs.pdf
       type: Technical Report
       school:
       book: "Technical Report ISIS-06-712"
@@ -2326,7 +2326,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-DX-2006.pdf
+      url: DaigleEtAl-DX-2006.pdf
       type: Conference
       school:
       book: "Proceedings of the 17th International Workshop on Principles of Diagnosis"
@@ -2346,7 +2346,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-ICRA-2006.pdf
+      url: DaigleEtAl-ICRA-2006.pdf
       type: Conference
       school:
       book: "Proceedings of the 2006 IEEE International Conference on Robotics and Automation"
@@ -2392,7 +2392,7 @@
         - M. Daigle
         - X. Koutsoukos
         - G. Biswas
-      url: pubs/DaigleEtAl-Allerton-2005.pdf
+      url: DaigleEtAl-Allerton-2005.pdf
       type: Unrefereed
       school:
       book: "Proceedings of the 43rd Annual Allerton Conference on Communication, Control, and Computing"
