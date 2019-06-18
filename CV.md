@@ -18,7 +18,7 @@ Dissertation: [A Qualitative Event-based Approach to Fault Diagnosis of Hybrid S
 
 ### Professional Experience
 - [NIO USA, Inc.](https://www.nio.io), **June 2017 - Present**  
-Principal Data Scientist, Data Science &amp; Analytics  
+Principal AI Scientist, Artificial Intelligence  
 - [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html), **September 2016 - May 2017**  
 Lead, Diagnostics &amp; Prognostics Group, Discovery and Systems Health Area, Intelligent Systems Division
 - [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html), **January 2012 - May 2017**  
@@ -30,6 +30,7 @@ Graduate Research Assistant, Model-based Embedded Systems (ModES) Lab, Modeling 
 
 ### Teaching
 
+- "Diagnostics Methods", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2017*, Philadelphia, PA, October, 2018
 - "Prognostics Methods", "Prognostics Case Studies", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2017*, St. Petersburg, FL, October, 2017
 - "Diagnosing Multiple Faults with Qualitative Models", "Introduction to Prognostic", *International Summer School on Fault Diagnosis of Complex Systems*, Terrassa, Spain, July 2017
 - "Prognostics Methods", "Prognostics Case Studies", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2016*, San Diego, CA, October, 2016
