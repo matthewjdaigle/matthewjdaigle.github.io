@@ -9,7 +9,7 @@ title: Matthew J. Daigle
 <img id="profile" width="200" src="/images/profile.jpeg">
 
 I am a research scientist working in the areas of artificial intelligence, machine learning,
-and data science. While I have worked in diverse application domains and topics such as electric automobiles and aircraft, robotics, cryogenic propellant systems, simulation, and airspace safety, my main research emphasis is in systems health management, that is, I develop algorithms through which machines can self-diagnose their condition and predict their future failures.
+and data science. While I have worked in diverse application domains and topics such as electric cars and aircraft, robotics, cryogenic propellant systems, simulation, and airspace safety, my main research emphasis is in systems health management, that is, I develop algorithms through which machines can self-diagnose their condition and predict their future failures.
 
 Currently, I am a Principal AI Scientist at [NIO USA, Inc.](https://www.nio.io). Prior to joining NIO, I was a Research Computer Scientist and Lead of the [Prognostics &amp; Diagnostics Group](http://prognostics.nasa.gov) at [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html). Prior to that, I was an Associate
 Scientist with the [University of California, Santa Cruz](http://ucsc.edu) at NASA Ames.

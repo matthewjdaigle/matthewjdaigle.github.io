@@ -1,4 +1,62 @@
+- year: 2019
+  publications:
 
+    - title: "A Comparative Study on Computation of Cumulative Distribution Function in Predicting Time of Failure of Engineering Systems"
+      authors:
+        - G. Sierra Paez
+        - M. Daigle
+        - K. Goebel
+      url:
+      type: Conference
+      school:
+      book: "Annual Conference of the Prognostics and Health Management Society 2019"
+      volume:
+      number:
+      pages: 
+      location: Scottsdale, AZ
+      year: 2019
+      month: October
+      notes:
+      id: Paez2019Comparative
+      abstract: ""
+
+    - title: "Hybrid Particle Petri Net Based Prognosis of a Planetary Rover"
+      authors:
+        - P. Ribot
+        - E. Chanthery
+        - Q. Gaudel
+        - M. Daigle
+      url:
+      type: Journal
+      school:
+      book: "IEEE Transactions on Aerospace and Electronic Systems"
+      volume:
+      number:
+      pages: 
+      location:
+      year: 2019
+      month: September
+      notes:
+      id: Ribot2019HPPN
+      abstract: ""
+
+    - title: "Fundamentals of Prognostics"
+      authors:
+        - A. Bregon
+        - M. Daigle
+      url:
+      type: Chapter
+      school:
+      book: "Fault Diagnosis of Dynamic Systems"
+      volume:
+      number:
+      pages: 409-432
+      location:
+      year: 2019
+      month: June
+      notes:
+      id: Bregon2019Fundamentals
+      abstract: ""
 
 
 - year: 2018

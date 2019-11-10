@@ -30,7 +30,7 @@ Graduate Research Assistant, Model-based Embedded Systems (ModES) Lab, Modeling 
 
 ### Teaching
 
-- "Diagnostics Methods", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2017*, Philadelphia, PA, October, 2018
+- "Diagnostics Methods", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2018*, Philadelphia, PA, October, 2018
 - "Prognostics Methods", "Prognostics Case Studies", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2017*, St. Petersburg, FL, October, 2017
 - "Diagnosing Multiple Faults with Qualitative Models", "Introduction to Prognostic", *International Summer School on Fault Diagnosis of Complex Systems*, Terrassa, Spain, July 2017
 - "Prognostics Methods", "Prognostics Case Studies", *PHM Fundamentals Short Course*, *Annual Conference of the Prognostics and Health Management Society 2016*, San Diego, CA, October, 2016
@@ -52,6 +52,8 @@ See the [Publications](/publications) page.
   - University Graduate Fellowship, Vanderbilt University, 2004–2008
 
 - *Group Awards*
+  - NASA Group Achievement Award, DaSHlink Team, NASA Ames Research Center, 2019
+  - NASA Group Achievement Award, Systems-Health & Operations Open-Data Team, NASA Ames Research Center, 2018
   - PHM Society Contributor of the Year Award, Prognostics Center of Excellence, 2016
   - NASA Group Achievement Award, Airspace Real-Time Safety Modeling Team, NASA Ames Research
   Center, 2016
