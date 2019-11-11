@@ -24,6 +24,8 @@ github_username:  matthewjdaigle
 markdown: kramdown
 plugins_dir:
   - jekyll-feed
+plugins:
+  - jekyll-redirect-from
 
 exclude: [Gemfile, Gemfile.lock]
 
