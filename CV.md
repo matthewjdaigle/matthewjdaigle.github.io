@@ -17,7 +17,9 @@ Dissertation: [A Qualitative Event-based Approach to Fault Diagnosis of Hybrid S
 [Rensselaer Polytechnic Institute](http://www.rpi.edu), Troy, NY
 
 ### Professional Experience
-- [NIO USA, Inc.](https://www.nio.io), **June 2017 - Present**  
+- [PARC](http://www.parc.com), **February 2020 - Present**  
+Principal Applied AI Research Scientist, System Sciences Laboratory  
+- [NIO USA, Inc.](https://www.nio.io), **June 2017 - February 2020**  
 Principal AI Scientist, Artificial Intelligence  
 - [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html), **September 2016 - May 2017**  
 Lead, Diagnostics &amp; Prognostics Group, Discovery and Systems Health Area, Intelligent Systems Division
