@@ -15,8 +15,10 @@ Nashville, TN
 <a href="http://www.rpi.edu">Rensselaer Polytechnic Institute</a><br />Troy, NY
 
 ## Professional Experience
-- <a href="http://nio.io">NIO</a>, <b>June 2017 - Present</b><br />
-Principal Data Scientist, Data Science &amp; Analytics
+- <a href="https://www.parc.com/">Palo Alto Research Center (PARC)</a>, <b>February 2020 - Present</b><br />
+Principal Applied AI Research Scientist, System Sciences Laboratory
+- <a href="http://nio.io">NIO</a>, <b>June 2017 - February 2020</b><br />
+Principal AI Scientist, Artificial Intelligence
 - <a href="http://www.nasa.gov/centers/ames/home/index.html">NASA Ames Research Center</a>, <b>September 2016 - May 2017</b><br />
 Lead, Diagnostics &amp; Prognostics Group, Discovery and Systems Health Area, Intelligent Systems Division
 - <a href="http://www.nasa.gov/centers/ames/home/index.html">NASA Ames Research Center</a>, <b>January 2012 - May 2017</b><br />
