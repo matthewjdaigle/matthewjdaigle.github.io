@@ -17,7 +17,9 @@ Dissertation: [A Qualitative Event-based Approach to Fault Diagnosis of Hybrid S
 [Rensselaer Polytechnic Institute](http://www.rpi.edu), Troy, NY
 
 ### Professional Experience
-- [PARC](http://www.parc.com), **February 2020 - Present**  
+- [Novity](https://novity.us/), **February 2020 - Present**  
+Principal Scientist
+- [PARC](http://www.parc.com), **February 2020 - November 2022**  
 Principal Applied AI Research Scientist, System Sciences Laboratory  
 - [NIO USA, Inc.](https://www.nio.io), **June 2017 - February 2020**  
 Principal AI Scientist, Artificial Intelligence  
