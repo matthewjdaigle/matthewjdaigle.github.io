@@ -11,12 +11,12 @@ title: Matthew J. Daigle
 I am a research scientist working in the areas of artificial intelligence, machine learning,
 and data science. While I have worked in diverse application domains and topics such as electric cars and aircraft, robotics, cryogenic propellant systems, simulation, and airspace safety, my main research emphasis is in systems health management, that is, I develop algorithms through which machines can self-diagnose their condition and predict their future failures.
 
-Currently, I am a Principal Applied AI Research Scientist at [PARC](https://www.parc.com/). Prior to joining PARC, I was a Principal AI Scientist at [NIO USA, Inc.](https://www.nio.io). Prior to that, I was a Research Computer Scientist and Lead of the [Diagnostics &amp; Prognostics Group](http://prognostics.nasa.gov) at [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html). Prior to that, I was an Associate
+Currently, I am a Principal Scientist at [Novity](https://novity.us/), developing predictive maintenance software. Prior to joining Novity, I was a Principal Applied AI Research Scientist at [PARC](https://www.parc.com/). Prior to that, I was a Principal AI Scientist at [NIO USA, Inc.](https://www.nio.io), and a Research Computer Scientist and Lead of the [Diagnostics &amp; Prognostics Group](http://prognostics.nasa.gov) at [NASA Ames Research Center](http://www.nasa.gov/centers/ames/home/index.html). Prior to that, I was an Associate
 Scientist with the [University of California, Santa Cruz](http://ucsc.edu) at NASA Ames.
 
 I received the B.S. degree in Computer Science and Computer and Systems Engineering from [Rensselaer Polytechnic Institute](http://rpi.edu), Troy, NY, in 2004, and the M.S. and Ph.D. degrees in Computer Science from [Vanderbilt University](http://vanderbilt.edu), Nashville, TN, in 2006 and 2008, respectively. From September 2004 to May 2008, I was a Graduate Research Assistant with the [Institute for Software Integrated Systems](http://www.isis.vanderbilt.edu/) and Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN.
 
-**Fun Fact**: I have an Erd&ouml;s number of 6, and a Bacon number of 4, resulting in an Erd&ouml;s-Bacon number of 10.
+**Fun Fact**: I have an Erd&ouml;s number of 6, and a Bacon number of 3, resulting in an Erd&ouml;s-Bacon number of 9.
 
 **Email**: me at matthewjdaigle.com
 
@@ -33,3 +33,7 @@ I received the B.S. degree in Computer Science and Computer and Systems Engineer
 {% assign j = j | plus: 1 %}
 {% endfor %}
 {% endfor %}
+
+## Presentations
+
+- [Building Battery State-of-Health Estimation Pipelines for Electrified Vehicles](https://www.mathworks.com/videos/building-battery-state-of-health-estimation-pipelines-for-electrified-vehicles-1558961478286.html) at the MathWorks Automotive Conference 2019.

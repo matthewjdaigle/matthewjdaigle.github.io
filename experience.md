@@ -15,7 +15,9 @@ Nashville, TN
 <a href="http://www.rpi.edu">Rensselaer Polytechnic Institute</a><br />Troy, NY
 
 ## Professional Experience
-- <a href="https://www.parc.com/">Palo Alto Research Center (PARC)</a>, <b>February 2020 - Present</b><br />
+- <a href="https://novity.us/">Novity</a>, <b>February 2020 - Present</b><br />
+Principal Scientist
+- <a href="https://www.parc.com/">Palo Alto Research Center (PARC)</a>, <b>February 2020 - November 2022</b><br />
 Principal Applied AI Research Scientist, System Sciences Laboratory
 - <a href="http://nio.io">NIO</a>, <b>June 2017 - February 2020</b><br />
 Principal AI Scientist, Artificial Intelligence
